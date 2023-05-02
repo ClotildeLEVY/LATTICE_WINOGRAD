@@ -9,7 +9,7 @@ basé sur le corpus Winogrande s
 + annotation syntaxique & sémantique (.tsv)
 + index (.tsv)
 + patrons (.json)
-+ scripts 
++ scripts pour la génération
 ## Authors
 
  Manon Gourves-Petit,
