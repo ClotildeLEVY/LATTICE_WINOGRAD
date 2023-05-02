@@ -1,0 +1,358 @@
+[
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "PERSON-1 is better at playing pretend with kids than \"PERSON-2\" because _ is a more \"ADJ\" person.",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Column6": "funny\/creative\/comic\/pleasant\/sporty|serious\/boring\/shy\/nervous"
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "PERSON-1  likes \"OBJECT\" and \"PERSON-2\"  does not, so _ refused\/went to buy some from the store.",
+  "Variable Pivot": "refused\/went",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "OBJECT",
+  "Column6": "roses\/lilies\/tulips\/sunflowers\/daisies\/poppies"
+ },
+ null,
+ {
+  "PATRONS": "PRON never comes to \"ADJ POSS\" \"PLACE NAME\", but \"PRON\" always go to \"ADJ POSS\" \"PLACE NAME\" because the _ is \"ADJ\".",
+  "Column6": "Home,House\/ Appartement,House\/ Office,Home.",
+  "Column7": "Smaller,Bigger\/Closer,further\/ better, worst",
+  "Column8": "He,I \/ she,I \/ He,she\/ She,he",
+  "Column9": "my, his\/ my, her\/ her\/his\/his,her"
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "There were more \"PERSON\" at the \"PLACE NAME-1\" than at the \"PLACE NAME-2\" because the _ was \"ADJ\".",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "PLACE NAME-1 | PLACE NAME-2",
+  "Autres variables": "PERSON"
+ },
+ null,
+ {
+  "PATRONS": "PERSON needed a bigger \"CONTAINER\"  to collect the \"NOUN-1\" he exchanged for the \"NOUN-2\" because the _ is \"ADJ\". "
+ },
+ null,
+ {
+  "UTILISÉ": "           ",
+  "PATRONS": "PERSON-1 believed \"PERSON-2\" was spying on him\/her during the private event, because _ was \"ADJ\". = créer une autre variable event pour générer davantage ? pas forcément adj mais plus complexe",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Column6": "paranoid\/insane\/deranged\/strange\/sneaky\/suspicious\/furtive"
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 likes \"FOOD\" and \"PERSON-2\" does not, so _ refused\/went to buy some from the store.",
+  "Variable Pivot": "refused\/went",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "FOOD",
+  "Column6": "carrots\/cucumbers\/chips\/shrimps\/coconuts\/pistachios"
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 looked up and saw \"PERSON-2\" racing by overhead, as _ was on the ramp."
+ },
+ null,
+ {
+  "PATRONS": "PERSON felt a less strong\/stronger bond with her \"ENTITÉ ANIMÉE-1\" than her \"ENTITÉ ANIMÉE-2\" because her\/his _ was very \"ADJ\".",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "ENTITE-1 | ENTITE-2",
+  "Autres variables": "PERSON",
+  "Column6": "aimal (cat, dog...)\/name\/lien familial (sister, brother, aunt...)",
+  "Column7": "distant\/detached\/aloof\/indifferent\/affectionate\/loyal\/caring\/sympathic"
+ },
+ null,
+ {
+  "PATRONS": "PRON thought \"PRON\" had time to take the scenic route to the store, but the _ was closed early.",
+  "Column6": "He\/she\/I\/they."
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "PERSON fed her\/his children \"FOOD-1\" instead of \"FOOD-2\" because she thought that the _ was \"ADJ\".",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "FOOD-1 | FOOD-2",
+  "Column6": "healthy\/better\/vigourous\/unhealthy\/junk food"
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 has\/have more\/less money than \"PERSON-2\" because _ just bought the winning lottery ticket.",
+  "Variable Pivot": "more\/less (ADV)",
+  "Antécedents": "PERSON-1 | PERSON-2"
+ },
+ null,
+ {
+  "PATRONS": "PERSON practiced \"ACTIVITY-1\" more\/less than she\/he practiced \"ACTIVITY-2\" because the \"EVENT\" next week was for the _ .",
+  "Variable Pivot": "more\/less",
+  "Antécedents": "ACTIVITY-1 | ACTIVITY-2",
+  "Autres variables": "PERSON + EVENT",
+  "Column6": "dancing\/ballet\/instrument (guitar, piano...)\/sport (judo, tennis...)",
+  "Column7": "concert\/recital\/competition\/show\/performance"
+ },
+ null,
+ {
+  "PATRONS": "The \"PERSON\" wanted to put the \"NOUN\" in the\"PLACE NAME\" but the _ was too \"ADJ\".",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "NOUN | PLACE NAME",
+  "Autres variables": "PERSON"
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 really loves* to \"ACTIVITY\" but \"PERSON-2\" does not because _ is very \"ADJ\".*",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "ACTIVITY",
+  "Column6": "cool\/boring\/intelligent\/ organized\/ messy"
+ },
+ null,
+ {
+  "PATRONS": "I prefer \"PLACE NAME\" to the \"PLACE NAME\" and I find the \"ADJ-1\" \"NAME\" in the _  not \"ADJ-2 at the end of the day."
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 went to the \"PLACE NAME\" without \"PERSON-2\" because _ had to change the \"OBJECT\"."
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 was funnier\/easier to amuse than \"PERSON-2\" because _ had a great sense of \"humor\".",
+  "Variable Pivot": "funnier\/easier to amuse",
+  "Antécedents": "PERSON-1 | PERSON-2"
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 helped\/was helped by \"PERSON-2\" to get into a treatment program, after _ heard of her \"ADDICTION\".",
+  "Variable Pivot": "helped\/was helped by",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "ADDICTION",
+  "Column6": "gambling addiction\/drinking addiction\/drug addiction"
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 invited \"PERSON-2\" to \"COUNTRY\" because _  is \"origin country\".",
+  "Column6": "France\/China\/Japan\/Madagascar\/Italy\/Portugal",
+  "REMARQUES": "les deux référents peuvent fonctionner, donc je ne sais pas si le winograd fonctionne"
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "COLOR\/MATERIAL + CONTAINER-1 doesn't fit in \"COLOR\/MATERIAL + CONTAINER-2\" because _ is too \"ADJ\".  ",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "CONTAINER-1 | CONTAINER-2",
+  "Autres variables": "COLOR + MATERIAL ",
+  "Column6": "suitcase\/bag\/box\/tupperware\/bagpack\/doggybag",
+  "Column7": "heavy\/big\/small\/massive",
+  "REMARQUES": "lien avec la phrase 44"
+ },
+ null,
+ {
+  "PATRONS": "PERSON could\/n't fit the \"COLOR\/MATERIAL + OBJECT\" into the \"COLOR\/MATERIAL + CONTAINER-1\" because_is ADJ. ",
+  "Variable Pivot": "could\/n't",
+  "Antécedents": "OBJECT | CONTAINER",
+  "Autres variables": "PERSON + COLOR + MATERIAL",
+  "Column6": "suitcase\/bag\/box\/tupperware\/bagpack\/doggybag",
+  "REMARQUES": "lien avec la phrase 42, ici le sujet n'a plus rien à voir avec résolution"
+ },
+ {
+  "PATRONS": "too big vs big enough"
+ },
+ {
+  "PATRONS": "NOUN \"PERSON-1\" is more\/less beautiful than \"NOUN\" \"PERSON-2\" because _ ADJ. ",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "NOUN",
+  "Column6": "moyens de transport\/animal\/bâtiment\/vêtement",
+  "Column7": "new\/cute\/big\/small\/comfortable"
+ },
+ null,
+ {
+  "PATRONS": "PERSON prefers the first \"NOUN\" than the second because _ is \"ADJ\".",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "NOUN",
+  "Autres variables": "PERSON",
+  "Column6": "moyens de transport\/animal\/bâtiment\/vêtement",
+  "Column7": "bigger\/faster\/cuter\/smaller"
+ },
+ null,
+ {
+  "PATRONS": "The new MOYEN DE TRANSPORT is faster\/slower than the old MOYEN DE TRANSPORT because _ is \"ADJ\". ",
+  "Variable Pivot": "faster\/slower",
+  "Antécedents": "old MOYEN DE TRANSPORT | new MOYEN DE TRANSPORT",
+  "Column6": "car\/train\/bus\/locomotive\/bicycle\/automobile\/ambulance\/bike",
+  "Column7": "more powerful\/lighter\/smaller\/horsepower"
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "PROFESSION-1 arrived before\/after the PROFESSION-2 because _ are ADJ.",
+  "Variable Pivot": "before\/after",
+  "Antécedents": "PROFESSION-1 | PROFESSION-2",
+  "Autres variables": "ADJ",
+  "Column6": "closer\/faster\/quicker"
+ },
+ null,
+ {
+  "PATRONS": "The COLOR-1 + MOYEN TRANSPORT-1 has overtaken the COLOR-2 +  MOYEN TRANSPORT-2 because it's ADJ.",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "MOYEN TRANSPORT-1 | MOYEN TRANSPORT-2",
+  "Autres variables": "COLOR",
+  "Column6": "car\/train\/bus\/locomotive\/bicycle\/automobile\/ambulance\/bike"
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 doesn't like\/likes to make decisions, that's why it's always PERSON-2 who decides. His\/her friends calls _ : the sheep.",
+  "Variable Pivot": "doesn't like\/likes",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "ø ",
+  "REMARQUES": "être un mouton marche aussi en anglais ? si non, à remplacer par \"the follower\"."
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "PERSON-1 can\/can't handle the cold better\/more than PERSON-2 because _ is ADJ.",
+  "Variable Pivot": "can\/can't - better\/more",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "ADJ (nationalité)",
+  "Column6": "canadian\/siberian\/ russian || italian\/ brazilian\/ ethiopian\/ cambodian"
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "PERSON 1 asked \"PERSON 2\" if she needed any \"COSMETIC-1\" or \"COSMETIC-2\" from the store, even though _ didn't because she had switched to using \"COSMETIC-3\".",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "COSMECTIC",
+  "Column6": "hand cream\/Pads\/tampons\/menstrual cups\/ shampoo..."
+ },
+ null,
+ {
+  "PATRONS": "Once in \"COUNTRY\", \"PERSON-1\"enjoyed the trip more\/less than \"PERSON-2\" because _ had a deeper understanding of the \"COUNTRY LANGUAGE\".",
+  "Variable Pivot": "more\/less",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "COUNTRY + COUNTRY LANGUAGE",
+  "Column7": "France\/Canada\/Greece\/Morocco\/Poland",
+  "Column8": "French\/English\/Polish.."
+ },
+ null,
+ {
+  "PATRONS": "(Usain Bolt)=PERSON-1 came faster than \"PERSON-2\" because _ took COLOR +  MOYEN TRANSPORT",
+  "Variable Pivot": "MOYEN DE TRANSPORT",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "COLOR"
+ },
+ null,
+ {
+  "PATRONS": "PERSON poured the entire \"CONTAINER-1\" into \"CONTAINER-2\" until the _ was full\/empty.",
+  "Variable Pivot": "full\/empty ADJ",
+  "Antécedents": "CONTAINER-1 | CONTAINER-2",
+  "Autres variables": "PERSON",
+  "Column6": "Bowl\/pan\/bucket\/box"
+ },
+ null,
+ {
+  "PATRONS": " \"PERSON-1\" is far\/less more \"ADJ\" than \"PERSON 2\", because _ is \"PROFESSION\".",
+  "Variable Pivot": "far\/less more + ADJ",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "ADJ + PROFESSION",
+  "Column6": "Intelligent\/ Strong\/ kind",
+  "Column7": "Scientist\/ Professionnal trainer\/ doctor"
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": " \"PERSON-1\" was unable to stay \"ADJ-1\" at work unlike \"PERSON 2\", because _ had a \"ADJ-2\" job.",
+  "Variable Pivot": "ADJ-1",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Column6": "Hard\/ fun\/ tiring\/"
+ },
+ null,
+ {
+  "PATRONS": "ACTIVITY-1 is bad\/great for the body but great\/bad for the brain, as thinking\/doing exercise is critical for the _ to develop.",
+  "Variable Pivot": "bad\/great",
+  "Antécedents": "body | brain",
+  "Autres variables": "ACTIVITY",
+  "Column6": "chess\/reading\/calculate\/writing\/sudoku\/puzzles || american football\/ boxing"
+ },
+ null,
+ {
+  "PATRONS": " \"PERSON-1\" proudly showed \"PERSON 2\" the \"FRUITS\" he grew himself all this summer.  _ is hardworking. ***???",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "FRUIT",
+  "Column6": "Bananas\/Strawberries\/Mango\/Oranges..."
+ },
+ null,
+ {
+  "PATRONS": "PERSON 's \"OBJECT-1\" smashed when \"OBJECT-2\" hit it since the _ was too \"ADJ\".",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "OBJECT 1 | OBJECT 2",
+  "Autres variables": "PERSON",
+  "Column6": "Name ",
+  "Column7": "Watch\/glasses\/computer\/phone",
+  "Column8": "Book\/Wall\/Door...",
+  "Column9": "Heavy\/Srong\/ Pointed..."
+ },
+ null,
+ {
+  "PATRONS": " \"PERSON-1\" had a bigger\/ smaller \"ANIMAL\"  than  PERSON-2 because PERSON-1\/2 fed their \"ANIMAL\" much more food.",
+  "Variable Pivot": "bigger\/smaller",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "ANIMAL",
+  "Column6": "Cat\/ Dog\/Horse\/ Rabbit..."
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "FILM-1 is better\/worst than \"FILM-2\", because _ is \"ADJ\".",
+  "Variable Pivot": "better\/worst",
+  "Antécedents": "FILM-1 | FILM-2",
+  "Autres variables": "ADJ",
+  "Column6": "funnier\/ longer\/ sadder\/ more dramatic\/ smarter\/ more serious\/ more boring"
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 was \"ADJ\" than \"PERSON-2\" because _ ate \"FOOD\" almost every day as a snack.",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "PERSON-1 PERSON-2",
+  "Autres variables": "FOOD",
+  "Column6": "Name ",
+  "Column7": "Thinner\/fatter\/skinnier",
+  "Column8": "Chocllate\/candies\/vegetables"
+ },
+ null,
+ {
+  "UTILISÉ": "X",
+  "PATRONS": "FLOWER-1 did not bloom while \"FLOWER-2\" did so because _ grow in \"SEASON\".",
+  "Variable Pivot": "SEASON",
+  "Antécedents": "FLOWER-1 | FLOWER-2",
+  "Column6": "roses\/lilies\/tulips\/sunflowers\/daisies\/poppies",
+  "Column7": "spring\/ summer\/ autumn\/ winter"
+ },
+ null,
+ {
+  "PATRONS": "PERSON had to stop \"ACTIVITY-1\" or \"ACTIVITY-2\". He chose to stop the _ because it was \"ADJ\".",
+  "Variable Pivot": "ADJ",
+  "Antécedents": "ACTIVITY-1 |ACTIVITY-2",
+  "Autres variables": "PERSON",
+  "Column6": "smoking\/driving\/swimming\/eating candies\/",
+  "Column7": "Safe\/Dangerous\/tiring\/risky"
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 went to every \"sport\" games at the stadium and \"PERSON-2\" didn't go because _ saw them on TV."
+ },
+ null,
+ {
+  "PATRONS": "PERSON-1 loves\/hates the taste of \"FOOD-1\" but PERSON-2 doesn't. _ ordered a big \"FOOD-2\" for dinner.",
+  "Variable Pivot": "loves\/hates",
+  "Antécedents": "PERSON-1 | PERSON-2",
+  "Autres variables": "FOOD-1\/2"
+ },
+ null,
+ {
+  "PATRONS": "PERSON\/PRONOM-1 has to stop eating \"FOOD-1\" and \"FOOD-2\". \"PRONOM-1\" has stopped eating _ because his blood pressure is too high\/he has too much cholesterol.",
+  "Variable Pivot": "blood pressure\/cholesterol",
+  "Antécedents": "FOOD-1 | FOOD-2",
+  "Autres variables": "PERSON\/PRONOM"
+ }
+]
