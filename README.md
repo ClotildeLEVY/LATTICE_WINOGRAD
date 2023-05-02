@@ -1,5 +1,5 @@
 # STAGE LATTICE WINOGRAD
-
+basé sur le corpus 
 
 
 
