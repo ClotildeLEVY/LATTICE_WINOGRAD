@@ -12,10 +12,8 @@ basé sur le corpus Winogrande s
 + scripts 
 ## Authors
 
- Manon Gourves-Petit
-,
- Lamia Malha
-,
+ Manon Gourves-Petit,
+ Lamia Malha,
  Clotilde Lévy
 
 
