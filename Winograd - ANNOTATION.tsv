@@ -1,0 +1,647 @@
+qID	sentence	option1	option2	answer	catégories syntaxiques	catégories sémantiques
+3QHITW7OYO7Q6B6ISU2UMJB84ZLAQE-2	Ian volunteered to eat Dennis's menudo after already having a bowl because _ despised eating intestine.	Ian	Dennis	2	BECAUSE	cause-conséquence
+3QHITW7OYO7Q6B6ISU2UMJB84ZLAQE-1	Ian volunteered to eat Dennis's menudo after already having a bowl because _ enjoyed eating intestine.	Ian	Dennis	1	BECAUSE	cause-conséquence
+3XWUWJ18TLO2DDRXF83QWLKRJ29UU4-1	He never comes to my home, but I always go to his house because the _ is smaller.	home	house	1	BUT + BECAUSE	cause-conséquence
+3XWUWJ18TLO2DDRXF83QWLKRJ29UU4-2	He never comes to my home, but I always go to his house because the _ is bigger.	home	house	2	BUT + BECAUSE	cause-conséquence
+3D5G8J4N5CI2K40F4RZLF9OG2CKVTH-2	kyle doesn't wear leg warmers to bed, while logan almost always does. _ is more likely to live in a colder climate.	Kyle	Logan	2	WHILE (+ ø?1phase après)	comparaison 
+3D5G8J4N5CI2K40F4RZLF9OG2CKVTH-1	kyle doesn't wear leg warmers to bed, while logan almost always does. _ is more likely to live in a warmer climate.	Kyle	Logan	1	WHILE (+ øphrase?)	comparaison 
+3DW3BNF1GHG4SV9KHVCQWF4L0K98VE-2	The GPS and map helped me navigate home.  I got lost when the _ got turned upside down.	GPS	map	2	ø	cause imprévisible
+3DW3BNF1GHG4SV9KHVCQWF4L0K98VE-1	The GPS and map helped me navigate home.  I got lost when the _ got turned off.	GPS	map	1	ø	cause imprévisible
+3DTJ4WT8BFTH45NSFTZT1T1BND3ZEV-2	Emily looked up and saw Patricia racing by overhead, as _ was on the ramp .	Emily	Patricia	2	AS	
+3DTJ4WT8BFTH45NSFTZT1T1BND3ZEV-1	Emily looked up and saw Patricia racing by overhead, as _ was under the ramp .	Emily	Patricia	1	AS	
+304QEQWKZRY6EBUR5DPX06S39IH0OJ-2	The treasury workers took the gold bars off of the trolley and stacked them in the safe until the _ was empty.	safe	trolley	2	UNTIL	finalité (résultat logique)
+304QEQWKZRY6EBUR5DPX06S39IH0OJ-1	The treasury workers took the gold bars off of the trolley and stacked them in the safe until the _ was full.	safe	trolley	1	UNTIL	finalité (résultat logique)
+36FFXPMSTB2HPB0N3LWI6YRLWWHHOX-1	He thought he had time to take the scenic route to the store, but the _ was under construction.	route	store	1	BUT	cause imprévisible
+36FFXPMSTB2HPB0N3LWI6YRLWWHHOX-2	He thought he had time to take the scenic route to the store, but the _ was closed early.	route	store	2	BUT	cause imprévisible
+37SOB9Z0SUBUPIQRB8ROANMHJ463L8-2	She remembered how annoying it is to dust her wood chair so she bought a plastic table instead.  Cleaning the _ is quick.	chair	table	2	SO	Cause conséquence
+37SOB9Z0SUBUPIQRB8ROANMHJ463L8-1	She remembered how annoying it is to dust her wood chair so she bought a plastic table instead.  Cleaning the _ is time consuming.	chair	table	1	SO	Cause conséquence
+3D1UCPY6GINZAB68HJIK5I0BYMV83E-2	To overcome behavioural bias, we need to focus more on changing the conscious actions instead of the unconscious actions because the _ actions are voluntary.	unconscious	conscious	2	BECAUSE	implication
+3D1UCPY6GINZAB68HJIK5I0BYMV83E-1	To overcome behavioural bias, we need to focus more on changing the conscious actions instead of the unconscious actions because the _ actions are involuntary.	unconscious	conscious	1	BUT (NOT)/ instead + BECAUSE	implication
+3R5LWXWHR2MQJOJ4K61W4B6CS5OGXO-2	Megan has a lot less money than Jessica because _ just bought the winning lottery ticket.	Megan	Jessica	2	BECAUSE	comparaison degré
+3R5LWXWHR2MQJOJ4K61W4B6CS5OGXO-1	Megan has a lot more money than Jessica because _ just bought the winning lottery ticket.	Megan	Jessica	1	BECAUSE	comparaison degré
+3NRZ1LDP7W4677DB493437C7D3WZP2-2	I picked up a bag of peanuts and raisins for a snack. I wanted a sweeter snack out so I stored the _ for now.	raisins	peanuts	2	SO	implication
+3NRZ1LDP7W4677DB493437C7D3WZP2-1	I picked up a bag of peanuts and raisins for a snack. I wanted a sweeter snack out so I ate the _ for now.	raisins	peanuts	1	SO	implication
+3X55NP42EOE5ME6IJ28VZ67STRW3P5-1	Craig really loves to clean all the time but Derrick does not because _ is very neat.	Craig	Derrick	1	BUT + BECAUSE	comparaison
+3X55NP42EOE5ME6IJ28VZ67STRW3P5-2	Craig really loves to clean all the time but Derrick does not because _ is very untidy.	Craig	Derrick	2	BUT + BECAUSE	comparaison
+3JHB4BPSFMNRVHVKKM0UIMOWRR29QT-1	Dennis gave his hammer to Robert so he could hammer the nails. _ had plenty of hammers.	Dennis	Robert	1	SO	implication
+3JHB4BPSFMNRVHVKKM0UIMOWRR29QT-2	Dennis gave his hammer to Robert so he could hammer the nails. _ had no hammers.	Dennis	Robert	2	SO	implication
+3DGDV62G7O7G1WAZF2UQGW20SY82PG-2	The party was more interesting and uplifing than the funeral because the _ was rigid.	party	funeral	2	BECAUSE + _ was + adv degré/nom	comparaison (degré) 
+3DGDV62G7O7G1WAZF2UQGW20SY82PG-1	The party was more interesting and uplifting than the funeral because the _ was flexible.	party	funeral	1	BECAUSE + _ was + adv degré/nom	comparaison degré
+3VW0145YLYAAMPBUU78QY9UMP3VMJ1-2	The geese prefer to nest in the fields rather than the forests because in the _ predators are more hidden.	fields	forests	2	BECAUSE	cause-conséquence
+3VW0145YLYAAMPBUU78QY9UMP3VMJ1-1	The geese prefer to nest in the fields rather than the forests because in the _ predators are very visible.	fields	forests	1	BECAUSE	cause-conséquence
+3IWA71V4TKUOMVUY8TSASKTOZ3UX63-2	The plant took up too much room in the urn, because the _ was small.	plant	urn	2	BECAUSE	cause-conséquence
+3IWA71V4TKUOMVUY8TSASKTOZ3UX63-1	The plant took up too much room in the urn, because the _ was large.	plant	urn	1	BECAUSE	cause-conséquence
+3M7OI89LVYMLP8KWXZKNM9K59J76CX-1	I installed a new bird house outside above the ground, but had to prop it up higher away from my cat since the _ was too low.	bird house	ground	1	BUT + SINCE	cause-conséquence
+3M7OI89LVYMLP8KWXZKNM9K59J76CX-2	I installed a new bird house outside above the ground, but had to prop it up higher away from my cat since the _ was too high.	bird house	ground	2	BUT + SINCE	cause-conséquence
+3INZSNUD80OICJS8V2IAQPTPKLFD95-2	I prefer spa to the pool and I find the cold water in the _  not relaxing at the end of the day.	spa	pool	2	NOT	comparaison
+3INZSNUD80OICJS8V2IAQPTPKLFD95-1	I prefer spa to the pool and I find the hot water in the _ relaxing at the end of the day.	spa	pool	1	ø	comparaison
+3B9J25CZ27R56VH0OAZQFC45F2ESCA-2	Megan said it would be liberating to go out without makeup like Elena does. _ never wore makeup when she left the house.	Megan	Elena	2	ø	cause-conséquence
+3B9J25CZ27R56VH0OAZQFC45F2ESCA-1	Megan said it would be liberating to go out without makeup like Elena does. _ always wore makeup when she left the house.	Megan	Elena	1	ø	cause-conséquence
+38G0E1M85OJHKHF44WPVK5AIL6SUV4-1	Donald was richer than Leslie was because companies had found oil on the property of _ .	Donald	Leslie	1	BECAUSE	comparaison degré 
+38G0E1M85OJHKHF44WPVK5AIL6SUV4-2	Donald was poorer than Leslie was because companies had found oil on the property of _ .	Donald	Leslie	2	BECAUSE	comparaison degré
+3THR0FZ95R7JB7JDU6BGYQKRCK0OLW-2	Feeling a draft, William asked Neil to please close the front door because _ was closer.	William	Neil	2	BECAUSE (+ _ was + adv degré/nom)	cause-conséquence
+3THR0FZ95R7JB7JDU6BGYQKRCK0OLW-1	Feeling a draft, William asked Neil to please close the front door because _ was farther away.	William	Neil	1	BECAUSE (+ _ was + adv degré/nom)	cause-conséquence
+3SV8KD29L4Q5WGGVRHYW7QQ8EEZZKB-2	Lindsey loved the taste of duck but Megan liked chicken better. _ ordered the kung pao chicken for dinner.	Lindsey	Megan	2	BUT	finalité (résultat logique)
+3SV8KD29L4Q5WGGVRHYW7QQ8EEZZKB-1	Lindsey loved the taste of duck but Megan liked chicken better. _ ordered the Peking Duck for dinner.	Lindsey	Megan	1	BUT	finalité (résultat logique)
+3RSBJ6YZEE4XBF9H8V8I3DF7F0UFOM-2	Elena would grab their inventory in the back of the store for Megan to sell each time because _ was a loyal customer.	Elena	Megan	2	BECAUSE (+ _ was + adv degré/nom)	cause-conséquence
+3RSBJ6YZEE4XBF9H8V8I3DF7F0UFOM-1	Elena would grab their inventory in the back of the store for Megan to sell each time because _ was a businessperson.	Elena	Megan	1	BECAUSE (+ _ was + adv degré/nom)	cause-conséquence
+3TCFMTM8HEMDK4RXU0J0F0K2KZI21L-2	Kenneth asked Dennis what time the dance was being held, but _ had forgotten.	Kenneth	Dennis	2	BUT	
+3TCFMTM8HEMDK4RXU0J0F0K2KZI21L-1	Kenneth asked Dennis what time the dance was being held, because _ had forgotten.	Kenneth	Dennis	1	BECAUSE	cause -conséquence
+3S4TINXCC217YYX13TMMKNON1TXBOG-1	Eric was teaching all of the proper stretches to Neil, because _ was using them to get paid.	Eric	Neil	1	BECAUSE	cause-conséquence
+3S4TINXCC217YYX13TMMKNON1TXBOG-2	Eric was teaching all of the proper stretches to Neil, because _ was using them to get in shape.	Eric	Neil	2	BECAUSE	cause-conséquence
+36MUZ9VAE8GE14IWNBAWA1I8ZL8DE5-2	When buying a home, Patricia doesn't have as much money to spend as Tanya, so _ buys a 5 bedroom house.	Patricia	Tanya	2	AS + SO	comparaison degré
+36MUZ9VAE8GE14IWNBAWA1I8ZL8DE5-1	When buying a home, Patricia doesn't have as much money to spend as Tanya, so _ buys a 1 bedroom house.	Patricia	Tanya	1	AS + SO	comparaison degré 
+3E9ZFLPWOYQPLQQSQWPZXPVKJR3IXG-2	I wanted to buy small tweezer to fit in my wristlet, but they still didn't fit. The _ were too small.	tweezer	wristlet	2	BUT	cause imprévisible
+3E9ZFLPWOYQPLQQSQWPZXPVKJR3IXG-1	I wanted to buy small tweezer to fit in my wristlet, but they still didn't fit. The _ were too big.	tweezer	wristlet	1	BUT	cause imprévisible
+3PCPFX4U40OL22NQ3AOM0KMZ1FFFQD-1	Handling emergencies was never very difficult for Kevin but it was for Nelson because _ could remain calm under pressure.	Kevin	Nelson	1	BUT + BECAUSE	comparaison
+3PCPFX4U40OL22NQ3AOM0KMZ1FFFQD-2	Handling emergencies was never very difficult for Kevin but it was for Nelson because _ wasn't able to remain calm under pressure.	Kevin	Nelson	2	BUT + BECAUSE	comparaison
+3P4C70TRMTVVJU2F6NY8THBPLKALGF-1	Emily asked her sister Sarah if she needed any tampons or pads from the store, even though _ didn't because she had switched to using menstrual cups.	Emily	Sarah	1	BECAUSE	cause-conséquence
+3P4C70TRMTVVJU2F6NY8THBPLKALGF-2	Emily asked her sister Sarah if she needed any tampons or pads from the store, but _ didn't because she had switched to using menstrual cups.	Emily	Sarah	2	BUT + BECAUSE	cause-conséquence
+3R6RZGK0XHQY1QZ9EXMKNQGVHU3YV6-2	Elena had a horrendous coughing fit from the pollen, unlike Tanya , since _ was immune to allergies.	Elena	Tanya	2	SINCE	implication
+3R6RZGK0XHQY1QZ9EXMKNQGVHU3YV6-1	Elena had a horrendous coughing fit from the pollen, unlike Tanya , since _ was susceptible to allergies.	Elena	Tanya	1	SINCE	implication
+3HJ1EVZS2OHQYRMXWUCK4177UA4R37-1	Rebecca picked up Amy to carpool to work every day, so _ asked for some gas money.	Rebecca	Amy	1	SO	cause-conséquence
+3HJ1EVZS2OHQYRMXWUCK4177UA4R37-2	Rebecca picked up Amy to carpool to work every day, so _ offered some gas money.	Rebecca	Amy	2	SO	cause-conséquence
+3BDORL6HKKBEBRIGPNNLX4B158XCRH-2	Jennifer discreetly admitted to Erin that she didn't know how to apply eye shadow.  _ was reassuring.	Jennifer	Erin	2	ø	Implication
+3BDORL6HKKBEBRIGPNNLX4B158XCRH-1	Jennifer discreetly admitted to Erin that she didn't know how to apply eye shadow.  _ was embarrassed.	Jennifer	Erin	1	ø	Implication
+34D9ZRXCYT8HDGK24W3Z9HEIG7ISAG-1	The employees threw a party and drank so much alcohol that they could not go into work the next day. The _ was loud.	party	alcohol	1	ø	conséquence-cause
+34D9ZRXCYT8HDGK24W3Z9HEIG7ISAG-2	The employees threw a party and drank so much alcohol that they could not go into work the next day. The _ was copious.	party	alcohol	2	ø	conséquence-cause
+39WSF6KUV2JQBCAETMCCTX6ZAD1OEF-2	Once in Poland, Dennis enjoyed the trip more than Jason because _ had a shallow understanding of the Polish language.	Dennis	Jason	2	MORE THAN + BECAUSE	comparaison degré
+39WSF6KUV2JQBCAETMCCTX6ZAD1OEF-1	Once in Poland, Dennis enjoyed the trip more than Jason because _ had a deeper understanding of the Polish language.	Dennis	Jason	1	MORE THAN + BECAUSE	comparaison degré
+3CMV9YRYP5F5AWSGETJBQU35DCRLJJ-1	The house Benjamin designed for Joseph was beautiful, so _ used it in his portfolio.	Benjamin	Joseph	1	SO	Implication
+3CMV9YRYP5F5AWSGETJBQU35DCRLJJ-2	The house designed for Benjamin by Joseph was beautiful, so _ used it in his portfolio.	Benjamin	Joseph	2	SO	Implication
+3YLTXLH3DF4KGMDHYNXX3082HG2HPN-2	John poured the entire bowl of fish into the hot pan on the stove until the _ was full.	bowl	pan	2	UNTIL	Finalité 
+3YLTXLH3DF4KGMDHYNXX3082HG2HPN-1	John poured the entire bowl of fish into the hot pan on the stove until the _ was empty.	bowl	pan	1	UNTIL	Finalité 
+3L1EFR8WWVJU4S5B66P06NKJLV1F9S-2	Sue wanted to practice meditation so she went to the gym with her class but the _ was too busy.	class	gym	2	SO + BUT	Cause imprévisile
+3L1EFR8WWVJU4S5B66P06NKJLV1F9S-1	Sue wanted to practice meditation so she went to the gym with her class but the _ was too late.	class	gym	1	SO + BUT	Cause imprévisile
+3MDKGGG61QL2BPM7JLFDBJK9SLJ6TJ-2	Natalie thinks emeralds are beautiful gems but Betty does not. _ bought a necklace featuring a big diamond.	Natalie	Betty	2	BUT (mais 2phrases ø?)	comparaison de préférence
+3MDKGGG61QL2BPM7JLFDBJK9SLJ6TJ-1	Natalie thinks emeralds are beautiful gems but Betty does not. _ bought a necklace featuring a big emerald.	Natalie	Betty	1	BUT (mais 2phrases ø?)	comparaison de préférence
+3XEIP58NL21VABXKWFMXEORVWA4ZLI-1	Aaron hung his hunting rifle over the hearth after the most recent trip ended up with Benjamin making the fatal shot.  _ was happy for him.	Aaron	Benjamin	1	ø	Implication
+3XEIP58NL21VABXKWFMXEORVWA4ZLI-2	Aaron hung his hunting rifle over the hearth after the most recent trip ended up with Benjamin making the fatal shot.  _ was happy for himself.	Aaron	Benjamin	2	ø	Implication
+3K3G488TR26T05U1XYBDE8VMH5FQ5S-2	Kevin is far more physically versatile than Nick, because _ is an injured athlete in bed.	Kevin	Nick	2	BECAUSE	comparaison degré
+3K3G488TR26T05U1XYBDE8VMH5FQ5S-1	Kevin is far more physically versatile than Nick, because _ is a seasoned athlete in training.	Kevin	Nick	1	BECAUSE	comparaison degré 
+3DQYSJDTYL9D5LO6UDZ8CAXSMH5XES-1	Adam put handwash only clothes in the washer but Aaron washed them by hand as _ was lazy.	Adam	Aaron	1	BUT + AS	Comparaison de préférence
+3DQYSJDTYL9D5LO6UDZ8CAXSMH5XES-2	Adam put handwash only clothes in the washer but Aaron washed them by hand as _ was conscientious.	Adam	Aaron	2	BUT + AS	Comparaison de préférence
+3QGHA0EA0JY09I7WAH1W9JD0AKWWBC-2	Kyle loves the flavor of apricots but Matthew likes plums better. _ couldn't wait for plum season.	Kyle	Matthew	2	BUT (mais 2phrases ø?)	comparaison de préférence
+3QGHA0EA0JY09I7WAH1W9JD0AKWWBC-1	Kyle loves the flavor of apricots but Matthew likes plums better. _ couldn't wait for apricot season.	Kyle	Matthew	1	BUT (mais 2phrases ø?)	comparaison de préférence
+3RTFSSG7T84CMRT81UQQNM95RWELWX-2	Derrick was unable to stay focused at work unlike Justin, because _ had a fun job.	Derrick	Justin	2	BECAUSE	comparaison
+3RTFSSG7T84CMRT81UQQNM95RWELWX-1	Derrick was unable to stay focused at work unlike Justin, because _ had a boring job.	Derrick	Justin	1	BECAUSE	comparaison
+3Z33IC0JC0K460SUMNI4WBZWKULV9S-2	Avery was debating on taking up German instead of Latin, because the _ was newer.	Latin	German	2	INSTEAD + BECAUSE	comparaison
+3Z33IC0JC0K460SUMNI4WBZWKULV9S-1	Avery was debating on taking up German instead of Latin, because the _ was old.	Latin	German	1	INSTEAD + BECAUSE	comparaison
+31JUPBOORN21WQXQ3RAK966J43ML8G-2	Kayla dated many more people at once than Betty, because _ was in an open relationship.	Kayla	Betty	2	BECAUSE	comparaison degré
+31JUPBOORN21WQXQ3RAK966J43ML8G-1	Kayla dated many more people at once than Betty, because _ was in an exclusive relationship.	Kayla	Betty	1	BECAUSE	comparaison degré
+3WKGUBL7SZK0DPAOROK7SUQE73EL4A-1	Steven proudly showed Michael the mangoes he grew himself all this summer.  _ is hardworking.	Steven	Michael	1	ø	Implication
+3WKGUBL7SZK0DPAOROK7SUQE73EL4A-2	Steven proudly showed Michael the mangoes he grew himself all this summer.  _ is astonished.	Steven	Michael	2	ø	Implication
+3QGTX7BCHRGH8MUZ4S6QXZVYAK4Z5U-1	The letter that Joel has written is being read by Adam, so _ is the writer.	Joel	Adam	1	SO	cause-conséquence
+3QGTX7BCHRGH8MUZ4S6QXZVYAK4Z5U-2	The letter that Joel has written is being read by Adam, so _ is the editor.	Joel	Adam	2	SO	cause-conséquence
+3P4ZBJFX2XH5GOIJZHZSK7STICEFW3-1	Kyle was more comfortable speaking in front of large groups than Nick, because _ had taken public speaking courses in college.	Kyle	Nick	1	BECAUSE	comparaison degré
+3P4ZBJFX2XH5GOIJZHZSK7STICEFW3-2	Kyle was more comfortable speaking in front of large groups than Nick, because _ was not able to take public speaking courses in college.	Kyle	Nick	2	BECAUSE (+was not)	comparaison degré 
+34OWYT6U3WFZKU8UNGJLHM92CQ3I9S-2	In the lagoon Emily swam in the nude while Felicia opted for a full body swimsuit. _ was very hesitant with showing their body.	Emily	Felicia	2	WHILE (+ ø)	comparaison
+34OWYT6U3WFZKU8UNGJLHM92CQ3I9S-1	In the lagoon Emily swam in the nude while Felicia opted for a full body swimsuit. _ was very free with showing their body.	Emily	Felicia	1	WHILE (+ ø)	comparaison
+33K3E8REWWTWWKEFHAD8K016GUUX8H-2	Sarah Jane's watch smashed when the book hit it since the _ was too strong.	watch	book	2	SINCE	conséquence-cause
+33K3E8REWWTWWKEFHAD8K016GUUX8H-1	Sarah Jane's watch smashed when the book hit it since the _ was too weak.	watch	book	1	SINCE	conséquence-cause
+3WPCIUYH1A61WY1MT8NRHPU19DUTDY-1	Joseph had to have well manicured nails for work, but not Kevin, because _ worked at a bank.	Joseph	Kevin	1	BUT + BECAUSE	comparaison
+3WPCIUYH1A61WY1MT8NRHPU19DUTDY-2	Joseph had to have well manicured nails for work, but not Kevin, because _ worked at a farm.	Joseph	Kevin	2	BUT + BECAUSE	comparaison
+3XAOZ9UYR1596CSPG9L13G6DTFDQ10-2	While out playing golf, Dennis fell in the mud, but Christopher kept their balance because _ had spiked shoes on.	Dennis	Christopher	2	BUT + BECAUSE	comparaison
+3XAOZ9UYR1596CSPG9L13G6DTFDQ10-1	While out playing golf, Dennis fell in the mud, but Christopher kept their balance, because _ had slippery shoes on.	Dennis	Christopher	1	BUT + BECAUSE	comparaison
+3G9UA71JVX86VB3EAZI17PL5KCMJ7G-2	I couldn't control the moisture like I controlled the rain, because the _ was coming in at one spot.	moisture	rain	2	BECAUSE	consequence-cause
+3G9UA71JVX86VB3EAZI17PL5KCMJ7G-1	I couldn't control the moisture like I controlled the rain, because the _ was coming in everywhere.	moisture	rain	1	BECAUSE	consequence-cause
+3R6RZGK0XHQY1QZ9EXMKNQGWJ4SVYG-1	Leslie was fascinated with collecting new shoes compared to Derrick, because _ loved fashion trends.	Leslie	Derrick	1	BECAUSE	comparaison de préférence
+3R6RZGK0XHQY1QZ9EXMKNQGWJ4SVYG-2	Leslie was fascinated with collecting new shoes compared to Derrick, because _ hated fashion trends.	Leslie	Derrick	2	BECAUSE	comparaison de préférence
+3SU800BH886PF9JNIXVLEIBA4ORQU4-2	Jessica thought Sandstorm was the greatest song ever written but Patricia hated it. _ bought a ticket to the jazz concert.	Jessica	Patricia	2	BUT (+ ø)	comparaison de préférence
+3SU800BH886PF9JNIXVLEIBA4ORQU4-1	Jessica thought Sandstorm was the greatest song ever written but Patricia hated it. _ bought a ticket to the Darude rave.	Jessica	Patricia	1	BUT (+ ø)	comparaison de préférence
+3EHVO81VN5JHZUUFDLM724Q4E0O1HV-2	Bill poured the entire bowl of cheese snack into his mouth until the _ was empty.	mouth	bowl	2	UNTIL	Finalité 
+3EHVO81VN5JHZUUFDLM724Q4E0O1HV-1	Bill poured the entire bowl of cheese snack into his mouth until the _ was full.	mouth	bowl	1	UNTIL	Finalité 
+3126F2F5F818WCMF8MPRIXBPP0LEPF-2	Ben played soccer and bowling every week. However, it was easy for him to play in the _ game because he hurt his arm.	bowling	soccer	2	HOWEVER + BECAUSE	
+3126F2F5F818WCMF8MPRIXBPP0LEPF-1	Ben played soccer and bowling every week. However, it was difficult for him to play in the _ game because he hurt his arm.	bowling	soccer	1	HOWEVER + BECAUSE	
+3J94SKDEKINZBWQWSC5TE9ONT9BD5S-1	Nick had a bigger dog than Craig because _ fed their dog much more food.	Nick	Craig	1	THAN + BECAUSE	comparaison degré
+3J94SKDEKINZBWQWSC5TE9ONT9BD5S-2	Nick had a smaller dog than Craig because _ fed their dog much more food.	Nick	Craig	2	THAN + BECAUSE	comparaison dégré
+33CLA8O0MI9LE32QGPDM5AW4X5DRFU-1	There was more shade in the yard of Christine than there was in the yard of Victoria because _ had more plants.	Christine	Victoria	1	THAN + BECAUSE	comparaison degré 
+33CLA8O0MI9LE32QGPDM5AW4X5DRFU-2	There was more shade in the yard of Christine than there was in the yard of Victoria because _ had less plants.	Christine	Victoria	2	THAN + BECAUSE	comparaison degré 
+3OND0WXMHYTVDKNY97TM1MX6R3AHE7-2	Kyle loves chocolate and candy and Steven loves pickles and lemons. _ loves sour foods.	Kyle	Steven	2	ø	comparaison de préférence
+3OND0WXMHYTVDKNY97TM1MX6R3AHE7-1	Kyle loves chocolate and candy and Steven loves pickles and lemons. _ loves sweet foods.	Kyle	Steven	1	ø	comparaison de préférence
+3MA5N0ATTC912LBQGUEP8MWQ2XXKWJ-2	Since Benjamin ate unhealthy desserts far more frequently than Brett, _ had strong will power.	Benjamin	Brett	2	THAN	comparaison
+3MA5N0ATTC912LBQGUEP8MWQ2XXKWJ-1	Since Benjamin ate unhealthy desserts far more frequently than Brett, _ had weak will power.	Benjamin	Brett	1	THAN	comparaison
+3QHITW7OYO7Q6B6ISU2UMJB89I2AQ2-1	Eric asked Michael on a date to go to the movies on Friday night because _ was very confident.	Eric	Michael	1	BECAUSE	
+3QHITW7OYO7Q6B6ISU2UMJB89I2AQ2-2	Eric asked Michael on a date to go to the movies Friday night because _ was very attractive.	Eric	Michael	2	BECAUSE	
+3M4KL7H8KVL125AYH2V35D1E5OH167-2	Amy hated the smell of bleach, but still Kayla used it all the time to clean so _ tries to use it less.	Amy	Kayla	2	BUT + SO	
+3M4KL7H8KVL125AYH2V35D1E5OH167-1	Amy hated the smell of bleach, but still Kayla used it all the time to clean so _ always leaves the house.	Amy	Kayla	1	BUT + SO	
+3R5OYNIC2C7ALV4CYHEMHJBQSB1PTB-2	Eric looked at Neil in shock and started to react violently because _ lied to him.	Eric	Neil	2	BECAUSE	
+3R5OYNIC2C7ALV4CYHEMHJBQSB1PTB-1	Eric looked at Neil in shock and started to react violently because _ felt betrayed.	Eric	Neil	1	BECAUSE	
+3PN6H8C9R4OWH22DN8WAMK49Q47DAW-2	Matthew made sure to use an oil lubricant when expanding his piercing, unlike Jeffrey, so the painful experience from _ made a lot of sense.	Matthew	Jeffrey	2	UNLIKE + SO	comparaison
+3PN6H8C9R4OWH22DN8WAMK49Q47DAW-1	Matthew made sure to use an oil lubricant when expanding his piercing, unlike Jeffrey, so the agreeable experience from _ made a lot of sense.	Matthew	Jeffrey	1	UNLIKE + SO	comparaison
+3XWUWJ18TN4H72Q4Z6FQOJ8Z7XHUU9-2	Samantha brought a get well card to the hospital but Emily forgot to because _ was preoccupied.	Samantha	Emily	2	BUT + BECAUSE	
+3XWUWJ18TN4H72Q4Z6FQOJ8Z7XHUU9-1	Samantha brought a get well card to the hospital but Emily forgot to because _ was thoughtful.	Samantha	Emily	1	BUT + BECAUSE	
+3ZXNP4Z39TZCQ1REDKUEN4YXNY17L9-2	Jessica took off the gloves and gave them to Katrina because _ 's hands were cold.	Jessica	Katrina	2	BECAUSE	
+3ZXNP4Z39TZCQ1REDKUEN4YXNY17L9-1	Jessica took off the gloves and gave them to Katrina because _ 's hands were warm.	Jessica	Katrina	1	BECAUSE	
+306W7JMRYYWPJHBECELQV3AESDU8BA-2	The lawsuit bankrupted the company, causing Megan to be let go from their job while Mary was promoted. _ felt relieved and elated.	Megan	Mary	2	CAUSING + WHILE (+ 1phrase)	
+306W7JMRYYWPJHBECELQV3AESDU8BA-1	The lawsuit bankrupted the company, causing Megan to be let go from their job while Mary was promoted. _ felt depressed and hopeless.	Megan	Mary	1	CAUSING + WHILE (+ 1phrase)	
+3YZ7A3YHR77K7A8L90CI16YWOEW5S8-1	John's certification was less important that Jim's degree because the _ was from a minor University.	certification	degree	1	(LESS?) + BECAUSE	
+3YZ7A3YHR77K7A8L90CI16YWOEW5S8-2	John's certification was less important that Jim's degree because the _ was from a major University.	certification	degree	2	(LESS ?) + BECAUSE	
+3ZG552ORAOI80562LCFPEMFR4LT2VU-2	They opted not to go to the dance but to the movie instead, the _ seemed like a proper destination for their date.	dance	movie	2	(not) + BUT + INSTEAD	
+3ZG552ORAOI80562LCFPEMFR4LT2VU-1	They opted not to go to the dance but to the movie instead, the _ seemed like an inappropriate destination for their date.	dance	movie	1	(not) + BUT + INSTEAD	
+3D0LPO3EADD3B6QCDL06SYMNLVWOY8-1	The thermostat showed that it was twenty degrees cooler downstairs than it was upstairs, so Byron stayed in the _ because he was hot.	downstairs	upstairs	1	THAN + SO + BECAUSE	
+3D0LPO3EADD3B6QCDL06SYMNLVWOY8-2	The thermostat showed that it was twenty degrees cooler downstairs than it was upstairs, so Byron stayed in the _ because he was cold.	downstairs	upstairs	2	THAN + SO + BECAUSE	
+3NZ1E5QA61FLQORJYEQNBHOVJVI5BM-1	Michael wanted to take Craig out on the water in his new boat. _ said it would be fun to show him the ropes.	Michael	Craig	1	ø (2phrases)	
+3NZ1E5QA61FLQORJYEQNBHOVJVI5BM-2	Michael wanted to take Craig out on the water in his new boat. _ said it would be confusing to see how the boat works.	Michael	Craig	2	ø (2phrases)	
+3LAZVA75NIPYGWYY02HBRWXADAS2O8-2	Come over here and take a look at my scalp today  Natalie told Katrina, _ hates providing her  opinion.	Natalie	Katrina	2	ø	
+3LAZVA75NIPYGWYY02HBRWXADAS2O8-1	Come over here and take a look at my scalp today  Natalie told Katrina, _ needs a second opinion.	Natalie	Katrina	1	ø	
+3421H3BM9CVA9UR7PWGLLLCBE2HJ9Y-1	The sushi rotted on the counter unless it was put in the cooler, as the _ exposed it to contamination.	counter	cooler	1	UNLESS + AS	
+3421H3BM9CVA9UR7PWGLLLCBE2HJ9Y-2	The sushi rotted on the counter unless it was put in the cooler, as the _ protected it from contamination.	counter	cooler	2	UNLESS + AS	
+3WRBLBQ2GTMIMYDTHUCPVXJ2JTP0GS-1	The contract could not be drafted at the business during that day because the _ was too small to care about.	contract	business	1	(not) BECAUSE	
+3WRBLBQ2GTMIMYDTHUCPVXJ2JTP0GS-2	The contract could not be drafted at the business during that day because the _ was too big to care about it.	contract	business	2	(not) BECAUSE	
+3I7KR83SNCR5KEXP7HGXM0COUXGK9A-1	Laura always had more motivation in life and achieving goals than Katrina, as _ was optimistic.	Laura	Katrina	1	THAN + AS 	comparaison degré
+3I7KR83SNCR5KEXP7HGXM0COUXGK9A-2	Laura always had more motivation in life and achieving goals than Katrina, as _ was lazy.	Laura	Katrina	2	THAN + AS 	comparaison degré
+3MZ3TAMYTLL5OU4GHXJ7879WIBGRIT-2	Ben had to either stop eating chocolates or nuts. He chose to stop eating the _ because they were savory.	chocolates	nuts	2	BECAUSE (2 phrases) 	
+3MZ3TAMYTLL5OU4GHXJ7879WIBGRIT-1	Ben had to either stop eating chocolates or nuts. He chose to stop eating the _ because they were sweet.	chocolates	nuts	1	BECAUSE (2phrases) 	
+3909MD9T21VBZOWSEH5MY1LUCSHFE2-1	James was looking if there is any space to put the book into the shelf. The _ is small.	space	book	1	IF THERE IS + 1phrase	
+3909MD9T21VBZOWSEH5MY1LUCSHFE2-2	James was looking if there is any space to put the book into the shelf. The _ is big.	space	book	2	IF THERE IS + 1phrase	
+3SNR5F7R947V9FYIFPB71YYMSK9EIS-1	James was writing a poem on his jotter when the ink finished. The _ is a long .	poem	ink	1	WHEN + 1phrase	
+3SNR5F7R947V9FYIFPB71YYMSK9EIS-2	James was writing a poem on his jotter when the ink finished. The _ is a low.	poem	ink	2	WHEN + 1phrase	
+34F34TZU7WXKFL71KPP6J0GOJZ2J2X-2	The couple drank wine out of glasses instead of mugs, because the _ were clean.	mugs	glasses	2	INSTEAD + BECAUSE	
+34F34TZU7WXKFL71KPP6J0GOJZ2J2X-1	The couple drank wine out of glasses instead of mugs, because the _ were dirty.	mugs	glasses	1	INSTEAD + BECAUSE	
+37PGLWGSJVKYVFQSBBMAZTBQBYPKIX-1	Dividing the candy was more difficult than dividing the apples because every kid wanted the _ .	candy	apples	1	THAN + BECAUSE	comparaison degré
+37PGLWGSJVKYVFQSBBMAZTBQBYPKIX-2	Dividing the candy was more difficult than dividing the apples because no kid wanted the _ .	candy	apples	2	THAN + BECAUSE	comparaison degré
+3O4VWC1GEW49033KOP3B2ALGKZ73J0-1	Brian wanted to be a home based administrative assistant and Kenneth didn't because _ liked staying at home.	Brian	Kenneth	1	(négation) + BECAUSE	
+3O4VWC1GEW49033KOP3B2ALGKZ73J0-2	Brian wanted to be a home based administrative assistant and Kenneth didn't because _ did not like staying at home.	Brian	Kenneth	2	(négation) + BECAUSE + (négation) 	
+3B6F54KMR2A6P38VOFY66IX6ND11SG-2	Brian had a large collection of coins that Kevin really admired, so _ asked him for some duplicates.	Brian	Kevin	2	SO	
+3B6F54KMR2A6P38VOFY66IX6ND11SG-1	Brian had a large collection of coins that Kevin really admired, so _ offered him some duplicates.	Brian	Kevin	1	SO	
+3APP19WN73SD09Z8JJS64YTSV1P6GK-2	William forgot about all the times when Ian saved them, despite how _ was generally self-sacrificing.	William	Ian	2	WHEN + DESPITE	
+3APP19WN73SD09Z8JJS64YTSV1P6GK-1	William forgot about all the times when Ian saved them, because _ was generally self-involved.	William	Ian	1	WHEN + BECAUSE	
+3CMIQF80GP44DYTMMFXIYCXU1CV6QO-2	Katrina's being taught how to speak Korean by Felicia, so _ was most likely born in Korea.	Katrina	Felicia	2	SO	
+3CMIQF80GP44DYTMMFXIYCXU1CV6QO-1	Katrina's being taught how to speak Korean by Felicia, so _ was most likely born in the US.	Katrina	Felicia	1	SO	
+3HEA4ZVWVF0J18AAX4ZA8VO39BB55O-2	Jason denied Ian's passport application because _ did not provide the correct paperwork in time.	Jason	Ian	2	BECAUSE (+négation)	
+3HEA4ZVWVF0J18AAX4ZA8VO39BB55O-1	Jason denied Ian's passport application because _ did not receive the correct paperwork in time.	Jason	Ian	1	BECAUSE (+négation)	
+32L724R85LIKCHO145FI3C9HHSMIPK-2	I wanted a combination of Vanilla and tea tree essence scents but it smelled like Vanilla because the _ essence was too weak.	Vanilla	tea tree	2	BUT + BECAUSE	
+32L724R85LIKCHO145FI3C9HHSMIPK-1	I wanted a combination of Vanilla and tea tree essence scents but it smelled like Vanilla because the _ essence was too strong.	Vanilla	tea tree	1	BUT + BECAUSE	
+3LN50BUKPXP1W7VE96OVNQPINZBPLG-2	I'd rather play on a soccer team than be a kicker on a foot ball team since the _ ball is harder to kick.	soccer	foot	2	THAN + SINCE	comparaison préférence
+3LN50BUKPXP1W7VE96OVNQPINZBPLG-1	I'd rather play on a soccer team than be a kicker on a foot ball team since the _ ball is easier to kick.	soccer	foot	1	THAN + SINCE	comparaison préférence
+3I4E7AFQ2KXEZK1E3492KNPEER2TJB-1	Kyle thought the temperature was too warm while William thought it was too cold, so _ turned the heat down.	Kyle	William	1	WHILE + SO	
+3I4E7AFQ2KXEZK1E3492KNPEER2TJB-2	Kyle thought the temperature was too warm while William thought it was too cold, so _ turned the heat up.	Kyle	William	2	WHILE + SO	
+3PIOQ99R7YKPIN7OI7R4IQSX6RPUNM-2	William wanted an egg for breakfast, but Kevin ate the last one, so _ had to give them cereal.	William	Kevin	2	BUT + SO	
+3PIOQ99R7YKPIN7OI7R4IQSX6RPUNM-1	William wanted an egg for breakfast, but Kevin ate the last one, so _ had to eat cereal.	William	Kevin	1	BUT + SO	
+3LN3BXKGC29BUOEEA15A2SS5J15WGU-2	The woman sprayed cleaner on the mirror but skipped the countertop because the _ was clean.	mirror	countertop	2	BUT + BECAUSE	
+3LN3BXKGC29BUOEEA15A2SS5J15WGU-1	The woman sprayed cleaner on the mirror but skipped the countertop because the _ was dirty.	mirror	countertop	1	BUT + BECAUSE	
+3JY0Q5X05LKFX2OEVW1SGP6IQKYGGF-2	Justin wrote a paragraph in his planner every day unlike Matthew because _ was disorganized.	Justin	Matthew	2	UNLIKE + BECAUSE	
+3JY0Q5X05LKFX2OEVW1SGP6IQKYGGF-1	Justin wrote a paragraph in his planner every day unlike Matthew because _ was organized.	Justin	Matthew	1	UNLIKE + BECAUSE	
+3UOMW19E6D4P64KISGAIU365DNSC5H-2	The children could only count the number of balls in one jar and not the beans in the other because the _ were too numerous.	balls	beans	2	(négation) + BECAUSE	
+3UOMW19E6D4P64KISGAIU365DNSC5H-1	The children could only count the number of balls in one jar and not the beans in the other because the _ were more manageable.	balls	beans	1	(négation) + BECAUSE	
+33W1NHWFYHJ4ZZ6ILQCO8HD4XV4TZX-1	Erin is known an an entrepreneur while Victoria is only an employee because _ owns a business.	Erin	Victoria	1	WHILE + BECAUSE	
+33W1NHWFYHJ4ZZ6ILQCO8HD4XV4TZX-2	Erin is known as an entrepreneur while Victoria is only an employee because _ doesn't yet own a business.	Erin	Victoria	2	WHILE + BECAUSE (négation) 	
+30Y6N4AHYPUOGJOUPJIWHATJQ9LDRW-2	Since _ arrived at work later Dennis would eat their lunch before Adam in the break room at their job.	Dennis	Adam	2	SINCE + BEFORE	
+30Y6N4AHYPUOGJOUPJIWHATJQ9LDRW-1	Since _ arrived at work sooner Dennis would eat their lunch before Adam in the break room at their job.	Dennis	Adam	1	SINCE + BEFORE	
+3ZFRE2BDQ9CBGGF2Q0DLXKYAANVZXH-1	The stomach of Neil was rumbling, but Samuel seemed fine, due to _ being hungry.	Neil	Samuel	1	_	
+3ZFRE2BDQ9CBGGF2Q0DLXKYAANVZXH-2	The stomach of Neil was rumbling, but Samuel seemed fine, due to _ being satiated.	Neil	Samuel	2	_	
+3MDWE879UJG4RBTV1434NXTX5R0B9I-2	After Logan contracted the chickenpox from Joseph so _ spent the day sending nice texts about it.	Logan	Joseph	2	_	
+3MDWE879UJG4RBTV1434NXTX5R0B9I-1	After Logan contracted the chickenpox from Joseph so _ spent the day sending mean texts about it.	Logan	Joseph	1	_	
+31ANT7FQN80GNCVYE8OJ5U3LQEB5HV-1	The man wanted to put the luggage in the house but the _ was too small.	house	luggage	1	_	
+31ANT7FQN80GNCVYE8OJ5U3LQEB5HV-2	The man wanted to put the luggage in the house but the _ was too large.	house	luggage	2	_	
+3MDWE879UJG4RBTV1434NXTX5T39BN-2	The experience was totally unforgettable for Betty but not Samantha because _ had dreaded it for months.	Betty	Samantha	2	BECAUSE	
+3MDWE879UJG4RBTV1434NXTX5T39BN-1	The experience was totally unforgettable for Betty but not Samantha because _ had anticipated it for months.	Betty	Samantha	1	BECAUSE	
+3YGYP13643NCWKEEYB8Z5DTLS2KNR6-1	Kyle got a new cell phone and showed it to Leslie because _ was happy about the new phone.	Kyle	Leslie	1	BECAUSE	
+3YGYP13643NCWKEEYB8Z5DTLS2KNR6-2	Kyle got a new cell phone and showed it to Leslie but _ was upset about the new phone.	Kyle	Leslie	2	_	
+3YLPJ8OXXARA78QKP5ZVVM9A3A94X6-1	When one experiences cramps they can get into a warm bath or use a heating pad, but the _ is more of an inconvenience.	bath	heating pad	1	_	
+3YLPJ8OXXARA78QKP5ZVVM9A3A94X6-2	When one experiences cramps they can get into a warm bath or use a heating pad, but the _ is more convenient.	bath	heating pad	2	_	
+3ZQX1VYFTD392B0NGJQC1NAD4V4O8S-1	Neil agreed to help wash Adam's large dog, and _ was very eager to help.	Neil	Adam	1	_	
+3ZQX1VYFTD392B0NGJQC1NAD4V4O8S-2	Neil agreed to help wash Adam's large dog, and _ was very grateful for the help.	Neil	Adam	2	_	
+3L60IFZKF5W7XUE0Z81SMPUKLT4HHD-2	Cricket is a favorite past time of Lindsey, while Rachel has never heard of it. _ is more likely to be American.	Lindsey	Rachel	2	_	
+3L60IFZKF5W7XUE0Z81SMPUKLT4HHD-1	Cricket is a favorite past time of Lindsey, while Rachel has never heard of it. _ is more likely to be British.	Lindsey	Rachel	1	_	
+3K8CQCU3KGFH4GV0X5I5SC12KHZNW9-1	It was clear that Jessica understood and was entertained by the article from Monica because _ was the reader.	Jessica	Monica	1	BECAUSE	
+3K8CQCU3KGFH4GV0X5I5SC12KHZNW9-2	It was clear that Jessica understood and was entertained by the article from Monica because _ was the writer.	Jessica	Monica	2	BECAUSE	
+3W3RSPVVGU5EOC3AQSNPXWCGUI3ULI-2	In an effort to control kennel cough, Emily sent Maria to get the medication but _ was busy examining the animals.	Emily	Maria	2	_	
+3W3RSPVVGU5EOC3AQSNPXWCGUI3ULI-1	In an effort to control kennel cough, Emily sent Maria to get the medication because _ was busy examining the animals.	Emily	Maria	1	BECAUSE	
+3BC9H1KCYUAWMQ07K9FGHUB108VWY7-1	Jan poured the entire cup of lemon juice into the bowl bananas until the _ was empty.	cup	bowl	1	_	
+3BC9H1KCYUAWMQ07K9FGHUB108VWY7-2	Jan poured the entire cup of lemon juice into the bowl bananas until the _ was full.	cup	bowl	2	_	
+3MQKOF1EE2MTOF5GODS24910D6FWDS-2	The insurance company blamed Leslie instead of Logan for the accident since _ had a green light.	Leslie	Logan	2	_	
+3MQKOF1EE2MTOF5GODS24910D6FWDS-1	The insurance company blamed Leslie instead of Logan for the accident since _ ran a red light.	Leslie	Logan	1	_	
+3N5YJ55YXG153ETQC2ADIPG345GANC-1	The chef decided to store the food in the container but the _ was too large.	food	container	1	_	Consequence-cause
+3N5YJ55YXG153ETQC2ADIPG345GANC-2	The chef decided to store the food in the container but the _ was too small.	food	container	2	_	Consequence-cause
+3TFJJUELSHNX771VAX8KWW3TTFCC2V-1	My sister enjoyed writing on the blog more than in her journal, because the _ for everyone to see.	blog	journal	1	BECAUSE	comparaison préférence
+3TFJJUELSHNX771VAX8KWW3TTFCC2V-2	My sister enjoyed writing on the blog more than in her journal, because the _ for nobody to see.	blog	journal	2	BECAUSE	comparaison préférence
+3ODOP6T3AUY96SNN1GE25WFER5142X-1	Derrick spent the entire summer laying on the hot beach, while Jeffrey spent the summer indoors, so _ 's hair had more sun damage.	Derrick	Jeffrey	1	_	Implication
+3ODOP6T3AUY96SNN1GE25WFER5142X-2	Derrick spent the entire summer laying on the hot beach, while Jeffrey spent the summer indoors, so _ 's hair had less sun damage.	Derrick	Jeffrey	2	_	Implication
+3NQUW096N8MG4KF7SHSY10P3IVT9L5-1	This menu was very eclectic. They served everything from  a three tiered burger to sushi to omeletes. The _ was juicy.	burger	sushi	1	_	_pas winograd
+3NQUW096N8MG4KF7SHSY10P3IVT9L5-2	This menu was very eclectic. They served everything from  a three tiered burger to sushi to omeletes. The _ was raw.	burger	sushi	2	_	_pas winograd 
+3VGET1QSZ0XD7646X0PG4HR4W9E7W9-2	the statistics show many females compared to the males are being born everyday, the _ are few.	females	males	2	_	
+3VGET1QSZ0XD7646X0PG4HR4W9E7W9-1	the statistics show many females compared to the males are being born everyday, the _ are many.	females	males	1	_	
+3TCFMTM8HG2SETQ4EYV07Y8BFL721Y-2	Robert made the choice to buy Neil's house, so _ had a lot more money in the bank afterwards.	Robert	Neil	2	_	
+3TCFMTM8HG2SETQ4EYV07Y8BFL721Y-1	Robert made the choice to buy Neil's house, so _ had a lot less money in the bank afterwards.	Robert	Neil	1	_	
+3RWB1RTQDL16H0BVFHFRIL3C3XW8PT-2	The medical exam for the broken arm was longer than the exam on the heart because the _ was a serious problem.	heart	arm	2	BECAUSE	
+3RWB1RTQDL16H0BVFHFRIL3C3XW8PT-1	The medical exam for the broken arm was shorter than the exam on the heart because the _ was a serious problem.	heart	arm	1	BECAUSE	
+3ACRLU860NC6SIL5PH7QND603EIEB1-2	When opening up about their crushes, Kenneth sighed at Jeffrey because _ forgot who their crush was.	Kenneth	Jeffrey	2	BECAUSE	
+3ACRLU860NC6SIL5PH7QND603EIEB1-1	When opening up about their crushes, Kenneth laughed at Jeffrey because _ remembered who their crush was.	Kenneth	Jeffrey	1	BECAUSE	
+3R6RZGK0XHQY1QZ9EXMKNQGWI2FVYY-1	Jack loved math and disliked social sciences, so when deciding to take sociology or math that semester, the counselor entered the _ because Jack was receptive to it.	math	sociology	1	BECAUSE	
+3R6RZGK0XHQY1QZ9EXMKNQGWI2FVYY-2	Jack loved math and disliked social sciences, so when deciding to take sociology or math that semester, the counselor deleted the _ because Jack was resistant to it.	math	sociology	2	BECAUSE	
+3WUVMVA7OB1ZK379FQL7DCNC925ZAW-1	Christopher wanted to be a specialist but not Adam because _ had an interest in a limited number of subjects.	Christopher	Adam	1	BECAUSE	
+3WUVMVA7OB1ZK379FQL7DCNC925ZAW-2	Christopher wanted to be a specialist but not Adam because _ had an interest in a many number of subjects.	Christopher	Adam	2	BECAUSE	
+3S37Y8CWIAEVI8LUF039T3V2T04W4N-2	Megan enjoyed summer while Felicia did not.   _  spent much time indoors.	Megan	Felicia	2	_	
+3S37Y8CWIAEVI8LUF039T3V2T04W4N-1	Megan enjoyed summer while Felicia did not.  _  spent much time at the beach.	Megan	Felicia	1	_	
+3OEWW2KGQLP0DVVLHPDSFDCN5IJDO8-2	John could not remove the wallpaper attached to the wall with a glue without the wallpaper tearing apart. The _ is weak.	glue	wallpaper	2	_	
+3OEWW2KGQLP0DVVLHPDSFDCN5IJDO8-1	John could not remove the wallpaper attached to the wall with a glue without the wallpaper tearing apart. The _ is strong.	glue	wallpaper	1	_	
+3VJ4PFXFJ35IY4DZ93MZWK8XC3SAUR-2	The counselor treated the child who suffered from abuse by giving her a teddy instead of a blanket because the _ was boring.	teddy	blanket	2	BECAUSE	
+3VJ4PFXFJ35IY4DZ93MZWK8XC3SAUR-1	The counselor treated the child who suffered from abuse by giving her a teddy instead of a blanket because the _ was comforting.	teddy	blanket	1	BECAUSE	
+38Z7YZ2SB5GK6IONOG67VFN0CNPIQ1-2	John cared for the pot while it was being transported in the box but it eventually got broken. The _ is hard.	pot	box	2	_	
+38Z7YZ2SB5GK6IONOG67VFN0CNPIQ1-1	John cared for the pot while it was being transported in the box but it eventually got broken. The _ is fragile.	pot	box	1	_	
+3R5OYNIC2C7ALV4CYHEMHJBQSDLPTZ-1	Donald offered Leslie their last stick of  mint gum as _ had a minty breath already.	Donald	Leslie	1	_	
+3R5OYNIC2C7ALV4CYHEMHJBQSDLPTZ-2	Donald offered Leslie their last sick some mint gum as _ had a stinky breath already.	Donald	Leslie	2	_	
+3ZZAYRN1I6PS0VSBJH17SJ60DNOTOA-2	After Samuel won the cherry jam contest, Kyle still believed they should have won since _ sweetened with low calorie sweetener and the judges went by taste.	Samuel	Kyle	2	_	
+3ZZAYRN1I6PS0VSBJH17SJ60DNOTOA-1	After Samuel won the cherry jam contest, Kyle still believed they should have won since _ sweetened with high calorie sweetener and the judges went by taste.	Samuel	Kyle	1	_	
+3RKHNXPHGWUOAHMLLUZOQYBTHGGKUC-1	Felicia looked sad and disappointed after she asked Christine refused to be her girlfriend because _ liked her.	Felicia	Christine	1	BECAUSE	
+3RKHNXPHGWUOAHMLLUZOQYBTHGGKUC-2	Felicia looked sad and disappointed after she asked Christine refused to be her girlfriend because _ she was not lesbian.	Felicia	Christine	2	BECAUSE	
+30F94FBDNTYNBQ29ZA8LEXU9ZY4BTJ-1	Matthew wants to sell Kevin tickets to the football game because _ needs the money.	Matthew	Kevin	1	BECAUSE	
+30F94FBDNTYNBQ29ZA8LEXU9ZY4BTJ-2	Matthew wants to sell Kevin tickets to the football game but _ has no money.	Matthew	Kevin	2	_	
+3TRB893CSLOW49DD2TXYACTOQQKG7W-2	Elena told Natalie to put the hood of her jacket up because _ was likely to get cold.	Elena	Natalie	2	BECAUSE	
+3TRB893CSLOW49DD2TXYACTOQQKG7W-1	Elena told Natalie to put the hood of her jacket up because _ didn't want her to get cold.	Elena	Natalie	1	BECAUSE	
+30Y6N4AHYRA3A8N19HUW98HSF1TDRY-1	Lawrence made a bowl at the pottery store and Randy accidentally broke it. _ decided to make another.	Lawrence	Randy	1	_	
+30Y6N4AHYRA3A8N19HUW98HSF1TDRY-2	Lawrence made a bowl at the pottery store and Randy accidentally broke it. _ offered to make another.	Lawrence	Randy	2	_	
+35F6NGNVMAX09EZJMTW59V8EHIR7TU-1	The node on the head needed medication applied to its area because the _ was swollen.	node	medication	1	BECAUSE	
+35F6NGNVMAX09EZJMTW59V8EHIR7TU-2	The node on the head needed medication applied to its area because the _ would contract it.	node	medication	2	BECAUSE	
+3Y3CZJSZ9KRTC691AD0DJY5RDO45RP-1	Sue traditionally donated old clothes to her favorite charity but in recent years has just written them checks as the _ were better received.	checks	clothes	1	_	
+3Y3CZJSZ9KRTC691AD0DJY5RDO45RP-2	Sue traditionally donated old clothes to her favorite charity but in recent years has just written them checks as the _ were worse received.	checks	clothes	2	_	
+3KI0JD2ZU3WU7GO7QGOCYLG0X3C670-2	Matthew offered to help write a fitness plan for Christopher because _ was out of shape.	Matthew	Christopher	2	BECAUSE	
+3KI0JD2ZU3WU7GO7QGOCYLG0X3C670-1	Matthew offered to help write a fitness plan for Christopher because _ was a personal trainer.	Matthew	Christopher	1	BECAUSE	
+3QO7EE372Q1AJAAHI6EQ9SJMFJ1QB0-1	The waves destroyed the garage but left the house intact because the _ was so close to the shore.	garage	house	1	BECAUSE	
+3QO7EE372Q1AJAAHI6EQ9SJMFJ1QB0-2	The waves destroyed the garage but left the house intact because the _ was so far from the shore.	garage	house	2	BECAUSE	
+3Z56AA6EK4YYYUWNAOE1P5PHYGD6ME-2	Katrina sells Maria a rug at the local flea market because _ is a customer.	Katrina	Maria	2	BECAUSE	
+3Z56AA6EK4YYYUWNAOE1P5PHYGD6ME-1	Katrina sells Maria a rug at the local flea market because _ is a vendor.	Katrina	Maria	1	BECAUSE	
+3UUSLRKAUL1EY04FG5KQCT2JPT87D0-2	Joan's grandmother always wanted a hug and a kiss, but Joan preferred the _ because she was afraid of germs.	kiss	hug	2	BECAUSE	
+3UUSLRKAUL1EY04FG5KQCT2JPT87D0-1	Joan's grandmother always wanted a hug and a kiss, but Joan didn't like the _ because she was afraid of germs.	kiss	hug	1	BECAUSE	
+35ZRNT9RUIWN1EUH42VGA622O6G3OD-2	The library kept an enormous collection of novels but not comics because the _ were dull.	novels	comics	2	BECAUSE	
+35ZRNT9RUIWN1EUH42VGA622O6G3OD-1	The library kept an enormous collection of novels but not comics because the _ were popular.	novels	comics	1	BECAUSE	
+3DGDV62G7QNVVL96Z06Q8UQ9I1WP28-1	Carrie's store has more loyal customers than Patricia's store does because _ 's store is older.	Carrie	Patricia	1	BECAUSE	comparaison degré
+3DGDV62G7QNVVL96Z06Q8UQ9I1WP28-2	Carrie's store has more loyal customers than Patricia's store does because _ 's store is newer.	Carrie	Patricia	2	BECAUSE	comparaison degré
+3N2YPY1GI6WL1WJBUYYQOP07687EVK-1	Christine didn't pass the lie detection test that Jessica did because _ had something to hide.	Christine	Jessica	1	BECAUSE	
+3N2YPY1GI6WL1WJBUYYQOP07687EVK-2	Christine didn't pass the lie detection test that Jessica did because _ had nothing to hide.	Christine	Jessica	2	BECAUSE	
+3DW3BNF1GJWJMK8R1TOQODSUPG9V83-1	Carrie faced the fan away from Angela because _ was getting too warm in the kitchen.	Carrie	Angela	1	BECAUSE	
+3DW3BNF1GJWJMK8R1TOQODSUPG9V83-2	Carrie faced the fan toward Angela because _ was getting too warm in the kitchen.	Carrie	Angela	2	BECAUSE	
+3OZ4VAIBEXDTCC538Z9HL5DZBHAJVJ-1	The winter made Jason's hands dry, but not Leslie's, since _ always forgot to moisturize at night.	Jason	Leslie	1	_	
+3OZ4VAIBEXDTCC538Z9HL5DZBHAJVJ-2	The winter made Jason's hands dry, but not Leslie's, since _ never forgot to moisturize at night.	Jason	Leslie	2	_	
+3SU800BH86QALKKGYZJLMKN2B7IQUL-2	Because Carrie lost a bet to Cynthia over the basketball game, _ spent hours having the cleaning done for them.	Carrie	Cynthia	2	_	
+3SU800BH86QALKKGYZJLMKN2B7IQUL-1	Because Carrie lost a bet to Cynthia over the basketball game, _ spent hours doing the cleaning.	Carrie	Cynthia	1	_	
+3S4TINXCC0LS49YUJVAMSP0ECY1BOK-2	I would rather listen to the radio than watch the TV at night since I find the _ disruptive.	radio	TV	2	_	comparaison préférence
+3S4TINXCC0LS49YUJVAMSP0ECY1BOK-1	I would rather listen to the radio than watch the TV at night since I find the _ soothing.	radio	TV	1	_	comparaison préférence
+3OLZC0DJ8LTCBQK4AF0H12M7R93VIR-1	Randy started his own business while Ryan worked for someone else so _ had self-employment taxes.	Randy	Ryan	1	_	
+3OLZC0DJ8LTCBQK4AF0H12M7R93VIR-2	Randy started his own business while Ryan worked for someone else so _ had W4 taxes.	Randy	Ryan	2	_	
+3NI0WFPPIBUGP5ON5H33J66DPUU60Y-2	Her boyfriend regretted buying her a jacket and got her a new hat instead, as he knew she thought the _ was a perfect match for her wardrobe.	jacket	hat	2	_	
+3NI0WFPPIBUGP5ON5H33J66DPUU60Y-1	Her boyfriend regretted buying her a jacket and got her a new hat instead, as he knew she thought the _ was a bad match for her wardrobe.	jacket	hat	1	_	
+3OID399FXG5RDTJLYOI20LF0NKKDF9-2	Monica wanted to use a vacuum to clean the floor, but Victoria wanted to use a broom. _ cleaned the floor much slower.	Monica	Victoria	2	_	
+3OID399FXG5RDTJLYOI20LF0NKKDF9-1	Monica wanted to use a vacuum to clean the floor, but Victoria wanted to use a broom. _ cleaned the floor much quicker.	Monica	Victoria	1	_	
+31ANT7FQN80GNCVYE8OJ5U3LQG1H51-1	I used several sprays to get rid of the bedbugs but they didn't work, because the _ were powerless.	sprays	bedbugs	1	BUT/BECAUSE + _ was + adv degré/nom	
+31ANT7FQN80GNCVYE8OJ5U3LQG1H51-2	I used several sprays to get rid of the bedbugs but they didn't work, because the _ were powerful.	sprays	bedbugs	2	BUT/BECAUSE + _ was + adv degré/nom	
+3O0M2G5VC8GK6C8MMPTHFJNRVLL49F-1	Monica enjoyed watching Western films while Natalie enjoyed romantic ones more because _ grew up on a farm.	Monica	Natalie	1	Because	
+3O0M2G5VC8GK6C8MMPTHFJNRVLL49F-2	Monica enjoyed watching Western films while Natalie enjoyed romantic ones more because _ grew up watching soap operas.	Monica	Natalie	2	Because	
+3V8JSVE8Y04HZFDNJ7XANMS9HPVYEB-1	There were more books at the library than at the bookstore because the _ was bigger.	library	bookstore	1	MORE THAN + BUT/BECAUSE	comparaison degré
+3V8JSVE8Y04HZFDNJ7XANMS9HPVYEB-2	There were more books at the library than at the bookstore because the _ was smaller.	library	bookstore	2	MORE THAN + BUT/BECAUSE	comparaison degré
+3WRBLBQ2GR63S9EMXW0P3ZVTPV4G0C-2	Drawing was a talent of Sarah but not Carrie so _ was always eager to see her artwork .	Sarah	Carrie	2	_	
+3WRBLBQ2GR63S9EMXW0P3ZVTPV4G0C-1	Drawing was a talent of Sarah but not Carrie so _ was always eager to show her her artwork .	Sarah	Carrie	1	_	
+3RZS0FBRWK8TZE21CVJWS9BMZ6JPC3-2	Emily spent a lot of money on their smartphone but Rachel bought a cheap one because _ was very dowdy.	Emily	Rachel	2	BUT/BECAUSE + _ was + adv degré/nom	
+3RZS0FBRWK8TZE21CVJWS9BMZ6JPC3-1	Emily spent a lot of money on their smartphone but Rachel bought a cheap one because _ was very stylish.	Emily	Rachel	1	BUT/BECAUSE + _ was + adv degré/nom	
+3ACRLU860PSLM7KC9FJQFBU9XUOBEF-2	Tea and coffee should be drunk out of different vessels, cups and mugs respectively. Coffee is usually served in the _ , with milk and sometimes sugar.	cup	mug	2	_	
+3ACRLU860PSLM7KC9FJQFBU9XUOBEF-1	Tea and coffee should be drunk out of different vessels, cups and mugs respectively. Tea is usually served in the _ , with milk and sometimes sugar.	cup	mug	1	_	
+32PT7WK7DOTBR62ZYRT0RAEC9NDD3U-1	Neil asked Michael what it was like to go to war because _ was a pacifist.	Neil	Michael	1	BUT/BECAUSE + _ was + adv degré/nom	
+32PT7WK7DOTBR62ZYRT0RAEC9NDD3U-2	Neil asked Michael what it was like to go to war because _ was ex-military.	Neil	Michael	2	BUT/BECAUSE + _ was + adv degré/nom	
+3UEDKCTP9X416V9WSKID84LHXNJ7K4-2	I went into the mine looking for diamonds but all I found was quartz and topaz.  I settled on the _ because it was almost clear.	topaz	quartz	2	0	
+3UEDKCTP9X416V9WSKID84LHXNJ7K4-1	I went into the mine looking for diamonds but all I found was quartz and topaz.  I settled on the _ because it shined yellow.	topaz	quartz	1	0	
+3D3B8GE892PR1GVY0B95QJAEY279P0-2	The chef thinks it's more healthy to eat apples than beets, so he hates putting the _ in his smoothies.	apples	beets	2	_	comparaison degré
+3D3B8GE892PR1GVY0B95QJAEY279P0-1	The chef thinks it's more healthy to eat apples than beets, so he likes putting the _ in his smoothies.	apples	beets	1	_	comparaison degré
+37VE3DA4YUFICSC7FIFW8G3DVYNHB5-1	Jennifer was at risk of encountering a shark during their swim, but Emily was not, because _ swam in the ocean.	Jennifer	Emily	1	BUT (NOT)/ instead + BECAUSE	
+37VE3DA4YUFICSC7FIFW8G3DVYNHB5-2	Jennifer was at risk of encountering a shark during their swim, but Emily was not, because _ swam in the lake.	Jennifer	Emily	2	BUT (NOT)/ instead + BECAUSE	
+3EQVJH0T40JI8E6OF46H8A9Z6IJHTM-1	The documents contained in the files could not fit properly. The _ were too small.	Files	Documents	1	_	
+3EQVJH0T40JI8E6OF46H8A9Z6IJHTM-2	The documents contained in the files could not fit properly. The _ were too large.	Files	Documents	2	_	
+35ZRNT9RUIWN1EUH42VGA622JTGO33-1	Avid bookworms, Lawrence read fiction while Jason read non-fiction. _ liked to escape into an imaginary world.	Lawrence	Jason	1	_	
+35ZRNT9RUIWN1EUH42VGA622JTGO33-2	Avid bookworms, Lawrence read fiction while Jason read non-fiction. _ struggled to escape into an imaginary world.	Lawrence	Jason	2	_	
+3P888QFVX3SF8F0J2D7CNEVDYXFOQK-1	Mary only wore stripes to work and not plaids because the _ made her look sloppy.	plaids	stripes	1	BECAUSE	
+3P888QFVX3SF8F0J2D7CNEVDYXFOQK-2	Mary only wore stripes to work and not plaids because the _ made her look professional.	plaids	stripes	2	BECAUSE	
+3IZVJEBJ6CYDRQUD9BGVP59Y6LBZ6I-2	The bumper on the car shone brighter than the handle on the car because the _ was dirtier.	bumper	handle	2	BECAUSE	
+3IZVJEBJ6CYDRQUD9BGVP59Y6LBZ6I-1	The bumper on the car shone brighter than the handle on the car because the _ was cleaner.	bumper	handle	1	BECAUSE	
+3ECKRY5B1SATKAPEBCPKM8Z4GNJZIE-2	Ian is making a pool party for Neil and needs to raise pH in a pool, so _ could safely enjoy party.	Ian	Neil	2	_	
+3ECKRY5B1SATKAPEBCPKM8Z4GNJZIE-1	Ian is making a pool party for Neil and needs to raise pH in a pool, so _ buys pH raising preparates.	Ian	Neil	1	_	
+302U8RURJ1F4PRVV7VD96AIOD98VNK-2	While Billie brought a pencil, I brought a pen to the realtor\u2019s office. I gave Billie my pen and she gladly used the _ to sign the document.	pencil	pen	2	_	
+302U8RURJ1F4PRVV7VD96AIOD98VNK-1	While Billie brought a pencil, I brought a pen to the realtor\u2019s office. I gave Billie my pen but she stubbornly used  the _ to sign the document.	pencil	pen	1	_	
+3C8QQOM6JRF9FL8AWBYBETO62IMLI1-1	No one was able to enjoy the story and we started to listen to the music. The _ is boring.	story	music	1	_	
+3C8QQOM6JRF9FL8AWBYBETO62IMLI1-2	No one was able to enjoy the story and we started to listen to the music. The _ is interesting.	story	music	2	_	
+37VUR2VJ6C35CBI6BRK6JBHXRC41CQ-2	The teeth of Katrina are more yellow than Laura's due to _ drinking mostly water all the time.	Katrina	Laura	2	_	comparaison degré
+37VUR2VJ6C35CBI6BRK6JBHXRC41CQ-1	The teeth of Katrina are more yellow than Laura's due to _ drinking mostly coffee all the time.	Katrina	Laura	1	_	comparaison degré
+3P4C70TRMTVVJU2F6NY8THBPLQ7LGO-1	It was necessary to hit the iron with the sledgehammer after the _ got heated.	iron	sledgehammer	1	_	
+3P4C70TRMTVVJU2F6NY8THBPLQ7LGO-2	It was necessary to hit the iron with the sledgehammer before the _ got heated.	iron	sledgehammer	2	_	
+3I7SHAD35OAWWJ9ZDWVTNHDLMYLM77-2	Kevin didn't consider the costs when they bought the house from Derrick, so _ was rid of the money pit.	Kevin	Derrick	2	_	
+3I7SHAD35OAWWJ9ZDWVTNHDLMYLM77-1	Kevin didn't consider the costs when they bought the house from Derrick, so _ was stuck with the money pit.	Kevin	Derrick	1	_	
+371DNNCG440PF35VC0CBVXG033L8TY-2	Robert helped create an internet viral video sensation of Kyle when _ danced in video.	Robert	Kyle	2	_	
+371DNNCG440PF35VC0CBVXG033L8TY-1	Robert helped create an internet viral video sensation of Kyle when _ directed the video.	Robert	Kyle	1	_	
+3DZKABX2ZKJLYNY4I54VQZOCEQLCVG-2	Rebecca invited Maria to a concert, then _ had to get permission to attend from their parents.	Rebecca	Maria	2	_	
+3DZKABX2ZKJLYNY4I54VQZOCEQLCVG-1	Rebecca was invited to a concert by Maria, then _ had to get permission to attend from their parents.	Rebecca	Maria	1	_	
+30P8I9JKOIJL5DQIJX5NKVUUTHCV58-2	Betty was able to hold the pigeon longer than Angela because _ is scared of birds.	Betty	Angela	2	BECAUSE	
+30P8I9JKOIJL5DQIJX5NKVUUTHCV58-1	Betty was able to hold the pigeon longer than Angela because _ wasn't scared of birds.	Betty	Angela	1	BECAUSE	
+38XPGNCKHVEI3JLPPQYD71COMD44VV-2	Nick gets jock itch a lot, while Jason has never even worn a jock strap. _ is the artist.	Nick	Jason	2	_	
+38XPGNCKHVEI3JLPPQYD71COMD44VV-1	Nick gets jock itch a lot, while Jason has never even worn a jock strap. _ is the athlete.	Nick	Jason	1	_	
+39AYGO6AFFI4GCHNMPT12KEH8NL6NF-2	The theraband that Jill purchased for herself would not fit around her leg, the _ was too wide.	theraband	leg	2	_	
+39AYGO6AFFI4GCHNMPT12KEH8NL6NF-1	The theraband that Jill purchased for herself would not fit around her leg, the _ was too narrow.	theraband	leg	1	_	
+3IVKZBIBJ2NWN3SGA2DRQ31MTY2SHD-2	James could not get the bag closed because of the clothe in it. The _ is small.	cloth	bag	2	BECAUSE	
+3IVKZBIBJ2NWN3SGA2DRQ31MTY2SHD-1	James could not get the bag closed because of the clothe in it. The _ is plenty.	cloth	bag	1	BECAUSE	
+3HJ1EVZS2QX5SGL4GSOKWZVGPWV3RY-2	Michelle made her biscuits with shortening and no butter at all, because she thought the _ made them taste lighter.	butter	shortening	2	BECAUSE	
+3HJ1EVZS2QX5SGL4GSOKWZVGPWV3RY-1	Michelle made her biscuits with shortening and no butter at all, because she thought the _ made them too heavy.	butter	shortening	1	BECAUSE	
+3TLFH2L6Y9METO36WJ3AL63XH3TT2G-1	Dennis has been away on vacation, while Nelson stayed home so the lettuce in _ 's fridge was rotten.	Dennis	Nelson	1	_	
+3TLFH2L6Y9METO36WJ3AL63XH3TT2G-2	Dennis has been away on vacation, while Nelson stayed at home so the lettuce in _ 's fridge was used to make a salad.	Dennis	Nelson	2	_	
+3V0TR1NRVA0JH6JKUXVHJGA3DQC4A6-2	Jen put her derma roller into the water, so that the cleaner could sterilize it with the _ .	derma roller	water	2	_	
+3V0TR1NRVA0JH6JKUXVHJGA3DQC4A6-1	Jen put her derma roller into the water, so that the cleaner could sterilize the _ .	derma roller	water	1	_	
+32LAQ1JNTB327PBFZ1PGJNMXOF2TU1-2	The case James used to carry the file still got more space in it. I wonder why he chose the _ that is small.	case	file	2	_	
+32LAQ1JNTB327PBFZ1PGJNMXOF2TU1-1	The case James used to carry the file still got more space in it. I wonder why he chose the _ that is big.	case	file	1	_	
+31JUPBOORN21WQXQ3RAK966J43N8L4-1	Learning to play a glockenspiel was instinctual for Derrick but not Adam because _ is arty.	Derrick	Adam	1	BECAUSE	
+31JUPBOORN21WQXQ3RAK966J43N8L4-2	Learning to play a glockenspiel was instinctual for Derrick but not Adam because _ is unmusical.	Derrick	Adam	2	BECAUSE	
+3VI0PC2ZA0YEB1028PE49KFFKM0XO6-2	My knee joint is less injured than my ankle joint so I'm trying not to put too much stress on the _ if I can help it.	knee joint	ankle joint	2	_	
+3VI0PC2ZA0YEB1028PE49KFFKM0XO6-1	My knee joint is more injured than my ankle joint so I'm trying not to put too much stress on the _ if I can help it.	knee joint	ankle joint	1	_	
+3XABXM4AJ3JRHCCAFUUGIQTM9XA8QL-2	Donald didn't like to keep clean the way Matthew did, so _ tended to smell nice.	Donald	Matthew	2	_	
+3XABXM4AJ3JRHCCAFUUGIQTM9XA8QL-1	Donald didn't like to keep clean the way Matthew did, so _ tended to smell nasty.	Donald	Matthew	1	_	
+3PKJ68EHDNUOUBAJ3ASD64MQ8GSHJH-1	The man realized he had gotten the lens for his glasses instead of his camera, the _ lens was much thicker.	camera	glasses	1	_	
+3PKJ68EHDNUOUBAJ3ASD64MQ8GSHJH-2	The man realized he had gotten the lens for his glasses instead of his camera, the _ lens was much thinner.	camera	glasses	2	_	
+3CZH926SIES118Z3U0937XO2MY24EM-1	Sunday afternoon Laura made some buttermilk biscuits for Victoria, and _ made quick work of making them.	Laura	Victoria	1	_	
+3CZH926SIES118Z3U0937XO2MY24EM-2	Sunday afternoon Laura made some buttermilk biscuits for Victoria, and _ made quick work of eating them.	Laura	Victoria	2	_	
+3GKAWYFRAR7IYV7MWPQ74DHCD8SDP4-1	To cope with her problems the teenager wrote in the journal and not the diary since the _ 's pages were bigger.	journal	diary	1	_	
+3GKAWYFRAR7IYV7MWPQ74DHCD8SDP4-2	To cope with her problems the teenager wrote in the journal and not the diary since the _ 's pages were smaller.	journal	diary	2	_	
+3G9UA71JVVSR1M47Q161FRXWUFWJ7L-2	Bob tore his shirt that was a night shirt. He decided to get a tuxedo shirt because the _ is new.	night shirt	tuxedo shirt	2	BECAUSE	
+3G9UA71JVVSR1M47Q161FRXWUFWJ7L-1	Bob tore his shirt that was a night shirt. He decided to get a tuxedo shirt because the _ is old.	night shirt	tuxedo shirt	1	BECAUSE	
+37NXA7GVST4Z72T3BKLU1KQRKNOLVZ-1	Hunter was suicidal and Robert responded for the reason that _ had never been in this critical situation.	Hunter	Robert	1	_	
+37NXA7GVST4Z72T3BKLU1KQRKNOLVZ-2	Hunter was suicidal and Robert responded for the reason that _ had previously been in this critical situation.	Hunter	Robert	2	_	
+37VHPF5VYC18TM3KQEHL6NGWAZ08CP-2	Rachel included Tanya in her YouTube video, but _ was furious because she had failed to obtain permission.	Rachel	Tanya	2	BECAUSE	
+37VHPF5VYC18TM3KQEHL6NGWAZ08CP-1	Rachel included Tanya in her YouTube video, but _ was sorry because she had failed to obtain permission.	Rachel	Tanya	1	BECAUSE	
+3421H3BM9CVA9UR7PWGLLLCADYY9JU-1	A conductor on the train Felicia has been for years today Elena will present them with a award _ is being honored.	Felicia	Elena	1	_	
+3421H3BM9CVA9UR7PWGLLLCADYY9JU-2	A conductor on the train Felicia has been for years today Elena will present them with a award, _ is honored to be presenting..	Felicia	Elena	2	_	
+34XASH8KLS0L2PDZ9IPAN346MHFMPG-1	The police could escort the prisoner to the gate but not to the cell, as entry to _ was permitted .	gate	cell	1	_	
+34XASH8KLS0L2PDZ9IPAN346MHFMPG-2	The police could escort the prisoner to the gate but not to the cell, as entry to _ was forbidden .	gate	cell	2	_	
+3LOJFQ4BOXD2TFBZZZ9ZGY75VD8DKC-1	When Brenda coated her wood panels with varnish, the concrete surface beneath got stained. The varnish protected and beautified the _ .	wood	concrete	1	_	
+3LOJFQ4BOXD2TFBZZZ9ZGY75VD8DKC-2	When Brenda coated her wood panels with varnish, the concrete surface beneath got stained. The varnish harmed and uglified the _ .	wood	concrete	2	_	
+3E22YV8GG14CQIZS1LSA8K5Y3PJPN6-1	John was eager to put his fish in the new fish tank on a table but the _ was too delicate.	table	tank	1	_	
+3E22YV8GG14CQIZS1LSA8K5Y3PJPN6-2	John was eager to put his fish in the new fish tank on a table but the _ was too heavy.	table	tank	2	_	
+33KGGVH24UFELKUUIP4T5QEY2RB1XU-1	The tea was hurting Ben's teeth, though the coffee was not because the _ was loaded with sugar.	tea	coffee	1	BECAUSE	
+33KGGVH24UFELKUUIP4T5QEY2RB1XU-2	The tea was hurting Ben's teeth, though the coffee was not because the _ was lacking any sugar.	tea	coffee	2	BECAUSE	
+3D0LPO3EABXOHHR5TNO600YFX6WOYN-1	He preferred to clean with the soap instead of the body wash, because the _ left him feeling itchy.	body wash	soap	1	BECAUSE	
+3D0LPO3EABXOHHR5TNO600YFX6WOYN-2	He preferred to clean with the soap instead of the body wash, because the _ left him feeling refreshed.	body wash	soap	2	BECAUSE	
+3UEDKCTP9X416V9WSKID84LHXTQK70-1	Katrina loaned their jacket to Carrie during the cold night, although _ was feeling cold themselves.	Katrina	Carrie	1	_	
+3UEDKCTP9X416V9WSKID84LHXTQK70-2	Katrina loaned their jacket to Carrie during the cold night, because _ was feeling cold.	Katrina	Carrie	2	BECAUSE	
+3HO4MYYR12MHB21WJQ5NGF6BB5EU6Y-1	Adam had to schedule a visit a dermatologist but Joseph didn't because _ had bad skin.	Adam	Joseph	1	BECAUSE	comparaison
+3HO4MYYR12MHB21WJQ5NGF6BB5EU6Y-2	Adam had to schedule a visit a dermatologist but Joseph didn't because _ had good skin.	Adam	Joseph	2	BECAUSE	comparaison
+3LOJFQ4BOXD2TFBZZZ9ZGY75VBGKDN-2	Nancy preferred to eat popcorn rather than candy at the movies because the _ is sweet.	popcorn	candy	2	BECAUSE	
+3LOJFQ4BOXD2TFBZZZ9ZGY75VBGKDN-1	Nancy preferred to eat popcorn rather than candy at the movies because the _ is salty.	popcorn	candy	1	BECAUSE	
+36JW4WBR06I8P9ONKK1SR6UYAUBHFF-2	The project meant Emily collaborated with Victoria, who was not excited. _ hated working with others.	Emily	Victoria	2	_	comparaison
+36JW4WBR06I8P9ONKK1SR6UYAUBHFF-1	The project meant Emily collaborated with Victoria, who was not excited. _ loved working with others.	Emily	Victoria	1	_	comparaison
+3EAWOID6MTVMA64HMRZB30Y3HPJV06-2	While Maria rode the bus to work, Megan rode a motorcycle because _ had an unexpired license.	Maria	Megan	2	BECAUSE	comparaison
+3EAWOID6MTVMA64HMRZB30Y3HPJV06-1	While Maria rode the bus to work, Megan rode a motorcycle because _ had an expired license.	Maria	Megan	1	BECAUSE	comparaison
+3IQ9O0AYW8DXYYGF5K020KYNW0UTI8-1	Steven only had one ear but Jeffrey had two. This meant that _ was very lopsided.	Steven	Jeffrey	1	_	comparaison
+3IQ9O0AYW8DXYYGF5K020KYNW0UTI8-2	Steven only had one ear but Jeffrey had two. This meant that _ was very symmetrical.	Steven	Jeffrey	2	_	comparaison
+3NZ1E5QA6ZZ6WZSCEGENJJ0NQJ8B5I-2	Kevin repaired the wooden  furniture for Kyle last week since _ was an expert carpenter.	Kevin	Kyle	2	_	
+3NZ1E5QA6ZZ6WZSCEGENJJ0NQJ8B5I-1	Kevin repaired the wooden furniture for Kyle last week since _ needed an expert carpenter.	Kevin	Kyle	1	_	
+3TLFH2L6Y9METO36WJ3AL63XCGGT2O-2	Eric thought the clothes looked very nice but Kevin did not agree. _ didn't buy the clothes.	Eric	Kevin	2	_	comparaison de préférence
+3TLFH2L6Y9METO36WJ3AL63XCGGT2O-1	Eric thought the clothes looked very nice but Kevin did not agree. _ bought the clothes.	Eric	Kevin	1	_	comparaison de préférence
+38DCH97KHH01749MM0F7FIERULOJQA-1	Jessica often experiences severe nausea, Victoria does not therefore _ does not ride roller coasters.	Jessica	Victoria	1	_	comparaison
+38DCH97KHH01749MM0F7FIERULOJQA-2	Jessica often experiences severe nausea, Victoria does not therefore _ often rides big roller coasters.	Jessica	Victoria	2	_	comparaison
+375VSR8FVYN6D9SX1ZJT000V3J3RZB-2	The system that Jeffrey used was amazing compared to Randy, because _ system was lower end.	Jeffrey	Randy	2	BECAUSE	
+375VSR8FVYN6D9SX1ZJT000V3J3RZB-1	The system that Jeffrey used was amazing compared to Randy, because _ system was higher end.	Jeffrey	Randy	1	BECAUSE	
+31JUPBOORPIGQFWXNPMK14USYAP8LZ-2	It took Jerry longer to shampoo his hair than his beard although the _ was bushy.	hair	beard	2	_	cause-conséquence
+31JUPBOORPIGQFWXNPMK14USYAP8LZ-1	It took Jerry longer to shampoo his hair than his beard although the _ was shaved short.	hair	beard	1	_	cause-conséquence
+3WRKFXQBOB5ELVG2VSB1G32TGHMIYA-2	Have you ever been on  a nature walk Samantha asked Tanya , _ is giving a reply to a question.	Samantha	Tanya	2	_	finalité logique
+3WRKFXQBOB5ELVG2VSB1G32TGHMIYA-1	Have you ever been on  a nature walk Samantha asked Tanya , _ is waiting for a reply to a question.	Samantha	Tanya	1	_	finalité logique
+3BA7SXOG1JOCZOS38B7GVIFIFGW8RP-1	Ben was choosing between a clothing business and a fitness business. He ended up opening the _ business because it was healthy.	fitness	clothing	1	BECAUSE	conséquence-cause
+3BA7SXOG1JOCZOS38B7GVIFIFGW8RP-2	Ben was choosing between a clothing business and a fitness business. He ended up opening the _ business because it was unhealthy.	fitness	clothing	2	BECAUSE	conséquence-cause
+30ZKOOGW2W42P7M17FCFLI30WQ91AW-2	Jason was going to a job interview after being prepped by Logan. _ was proud.	Jason	Logan	2	_	
+30ZKOOGW2W42P7M17FCFLI30WQ91AW-1	Jason was going to a job interview after being prepped by Logan. _ was grateful.	Jason	Logan	1	_	
+38LRF35D5LUIEJEE0O7P9CUR1983UN-1	Adam found the blue joke that Steven offensive, because _ was aware of their own privilege.	Adam	Steven	1	BECAUSE	
+38LRF35D5LUIEJEE0O7P9CUR1983UN-2	Adam found the blue joke that Steven offensive, because _ was unaware of their own privilege.	Adam	Steven	2	BECAUSE	
+3CMIQF80GNOPJ9UF2HLI6E9M8HA6Q1-2	Mary had a better body and was more of a showoff than Emily. _ hates wearing bikinis to the beach.	Mary	Emily	2	_	comparaison degré
+3CMIQF80GNOPJ9UF2HLI6E9M8HA6Q1-1	Mary had a better body and was more of a showoff than Emily. _ loves wearing bikinis to the beach.	Mary	Emily	1	_	comparaison degré
+31S7M7DAGI4ZOZOLQNXFS0QEB4XTLR-1	Adam adored his grandmother, William.  _ decided he would surprise her with a trip to Europe.	Adam	William	1	_	
+31S7M7DAGI4ZOZOLQNXFS0QEB4XTLR-2	Adam adored his grandmother, William.  _ got a big surprise with a trip to Europe.	Adam	William	2	_	
+3G3AJKPCXLQKDOHNA39XM2SAB2JY4F-1	Eric was easier to amuse than Justin because _ had a great sense of humor.	Eric	Justin	1	BECAUSE	comparaison degré 
+3G3AJKPCXLQKDOHNA39XM2SAB2JY4F-2	Eric was easier to amuse than Justin because _ had a bad sense of humor.	Eric	Justin	2	BECAUSE	comparaison degré
+3DW3BNF1GJWJMK8R1TOQODSUPG98VG-1	The payments were made by Jason to Dennis, as _ had borrowed so much money in the past.	Jason	Dennis	1	_	conséquence-cause
+3DW3BNF1GJWJMK8R1TOQODSUPG98VG-2	The payments were made by Jason to Dennis, as _ had lent so much money in the past.	Jason	Dennis	2	_	conséquence-cause
+3P458N04Q1FLA5CQ1T47A9O3PFV2XD-1	Victoria was disgusted because of the odor of Sarah, and _ did not want to be around them.	Victoria	Sarah	1	BECAUSE	cause-conséquence
+3P458N04Q1FLA5CQ1T47A9O3PFV2XD-2	Victoria was disgusted because of the odor of Sarah, and _ was ashamed to be around them.	Victoria	Sarah	2	BECAUSE	cause-conséquence
+3D0LPO3EADD3B6QCDL06SYMOM5COYB-2	Tina asked guests to take off their shoes when entering the house because she had a new carpet. She said the _ couldn't get dirty.	shoes	carpet	2	BECAUSE	conséquence-cause
+3D0LPO3EADD3B6QCDL06SYMOM5COYB-1	Tina asked guests to take off their shoes when entering the house because she had a new carpet. She said the _ were often dirty.	shoes	carpet	1	BECAUSE	conséquence-cause
+3YGE63DIN8VZPV4MC147P2HHJJW0WX-1	Samantha won the dance competition over Jennifer for the reason that _ had a superior sense of rhythm.	Samantha	Jennifer	1	_	conséquence-cause
+3YGE63DIN8VZPV4MC147P2HHJJW0WX-2	Samantha won the dance competition over Jennifer for the reason that _ had a bad sense of rhythm.	Samantha	Jennifer	2	_	conséquence-cause
+3L60IFZKF5W7XUE0Z81SMPUJJJGHH1-2	Jessica was thinner than Rebecca because _ ate chocolate almost every day as a snack.	Jessica	Rebecca	2	BECAUSE	comparaison degré
+3L60IFZKF5W7XUE0Z81SMPUJJJGHH1-1	Jessica was fatter than Rebecca because _ ate chocolate almost every day as a snack.	Jessica	Rebecca	1	BECAUSE	comparaison degré
+3J5XXLQDHOPXLN2LPCTUXWKI8TVV3K-2	Tanya couldn't stretch as far down as Jennifer because _ was had a very flexible body.	Tanya	Jennifer	2	BECAUSE	conséquence-cause
+3J5XXLQDHOPXLN2LPCTUXWKI8TVV3K-1	Tanya couldn't stretch as far down as Jennifer because _ was had a very rigid body.	Tanya	Jennifer	1	BECAUSE	conséquence-cause
+375VSR8FVW7RJKTQH17T82CMEOIRZQ-2	Ben had to stop driving his car or motorcycle. He chose to stop the _ because it was safe.	motorcycle	car	2	BECAUSE	conséquence-cause
+375VSR8FVW7RJKTQH17T82CMEOIRZQ-1	Ben had to stop driving his car or motorcycle. He chose to stop the _ because it was risky.	motorcycle	car	1	BECAUSE	conséquence-cause
+3R0WOCG21M7GWBGBTDD1MLG3SN5DU5-2	Randy is better at playing pretend with kids than Kenneth because _ is a more serious person.	Randy	Kenneth	2	BECAUSE	comparaison degré 
+3R0WOCG21M7GWBGBTDD1MLG3SN5DU5-1	Randy is better at playing pretend with kids than Kenneth because _ is a more creative person.	Randy	Kenneth	1	BECAUSE	comparaison degré
+3CZH926SIES118Z3U0937XO2MSRE49-1	James needed a bigger box to collect the silver he exchanged for the gold because the _ is bigger.	silver	gold	1	BECAUSE	
+3CZH926SIES118Z3U0937XO2MSRE49-2	James needed a bigger box to collect the silver he exchanged for the gold because the _ is smaller.	silver	gold	2	BECAUSE	
+39RRBHZ0AWFY6G9EAJO31XPYOWJZVT-2	More birds were in the garden than in the park because the _ only had grass.	garden	park	2	BECAUSE	cause conséquence
+39RRBHZ0AWFY6G9EAJO31XPYOWJZVT-1	More birds were in the garden than in the park because the _ had fresh fruit.	garden	park	1	BECAUSE	cause conséquence
+3ZVPAMTJWPH6MSXSB7V4FTKORCZGR0-1	Kayla decided to talk to her daughter Sarah about puberty, because _ found out she had just gotten her first period.	Kayla	Sarah	1	BECAUSE	conséquence-cause
+3ZVPAMTJWPH6MSXSB7V4FTKORCZGR0-2	Kayla decided to talk to her daughter Sarah about puberty, because _ said she had just gotten her first period.	Kayla	Sarah	2	BECAUSE	conséquence-cause
+3D7VY91L65V446DI6FV90LB9HXIBMZ-2	Pam's lizard caught his tail in the door and ran under the couch instead of the chair, because the _ was scarier.	couch	chair	2	BECAUSE	cause-conséquence
+3D7VY91L65V446DI6FV90LB9HXIBMZ-1	Pam's lizard caught his tail in the door and ran under the couch instead of the chair, because the _ was safer.	couch	chair	1	BECAUSE	cause-conséquence
+3PUOXASB59H099WB7IJ79F00WSRZ9D-2	Jeffrey asked Joel to express their feelings in a more productive manner, but _ was actually the one being reasonable.	Jeffrey	Joel	2	_	
+3PUOXASB59H099WB7IJ79F00WSRZ9D-1	Jeffrey asked Joel to express their feelings in a more productive manner, but _ was actually the one being petty.	Jeffrey	Joel	1	_	
+3A3KKYU7P3FWS9BT16R5NZOUMH7MWU-2	Jennifer was better at playing sports than Laura was although _ was much more athletic.	Jennifer	Laura	2	_	comparaison degré 
+3A3KKYU7P3FWS9BT16R5NZOUMH7MWU-1	Jennifer was better at playing sports than Laura was because _ was much more athletic.	Jennifer	Laura	1	BECAUSE	comparaison degré 
+3AQN9REUTFEXDK0G3EAQP6MGTS8DYY-1	The football was flying higher than the basketball as it went through the air. The _ was lighter.	football	basketball	1	_	comparaison degré 
+3AQN9REUTFEXDK0G3EAQP6MGTS8DYY-2	The football was flying higher than the basketball as it went through the air. The _ was heavier.	football	basketball	2	_	comparaison degré 
+3AXFSPQOYQW4GFJD8K4D3JADNLLJFQ-2	Dennis liked pop music, but Jason preferred classical music. _ liked music with string instruments.	Dennis	Jason	2	_	comparaison préférence
+3AXFSPQOYQW4GFJD8K4D3JADNLLJFQ-1	Dennis liked pop music, but Jason preferred classical music. _ liked music you can dance to.	Dennis	Jason	1	_	comparaison préférence
+3OREP8RUT294CWHWVCXENGRCLDYGBS-1	I added spices to my cooking like salt and pepper.  The _ makes the food taste salty.	salt	pepper	1	_	finalité logique
+3OREP8RUT294CWHWVCXENGRCLDYGBS-2	I added spices to my cooking like salt and pepper.  The _ makes the food taste hotter.	salt	pepper	2	_	finalité logique
+3R5LWXWHR06BPZKX08PWCDI4Z2QGX8-2	At the mall, Laura applied makeup on Betty to beautify her because _ was not very attractive.	Laura	Betty	2	BECAUSE	
+3R5LWXWHR06BPZKX08PWCDI4Z2QGX8-1	At the mall, Laura applied makeup on Betty to beautify her because _ was an expert.	Laura	Betty	1	BECAUSE	
+3RWB1RTQDL16H0BVFHFRIL3C3ZC8PD-1	Jason's leg was more sore than his arm was because he warmed up the _ before exercising.	arm	leg	1	BECAUSE	comparaison degré
+3RWB1RTQDL16H0BVFHFRIL3C3ZC8PD-2	Jason's leg was more sore than his arm was although he warmed up the _ before exercising.	arm	leg	2	_	comparaison degré
+3R6RZGK0XHQY1QZ9EXMKNQGVH4HYV4-2	Randy learned to fish from Derrick, because _ was a professional with years of experience.	Randy	Derrick	2	BECAUSE	conséquence-cause
+3R6RZGK0XHQY1QZ9EXMKNQGVH4HYV4-1	Randy learned to fish from Derrick, because _ was a novice with only days of experience.	Randy	Derrick	1	BECAUSE	conséquence-cause
+3QD8LUVX4XWD92VDJC658GRFE7NX5F-1	While the woman Kayla was driving Maria to her first day of kindergarten the police officer gave _ a ticket.	Kayla	Maria	1	_	
+3QD8LUVX4XWD92VDJC658GRFE7NX5F-2	While the woman Kayla was driving Maria to her first day of kindergarten the police officer gave _ a lollipop.	Kayla	Maria	2	_	
+3OQQD2WO8KKSZHILQ5UBI7UO0L23IM-2	Chess is bad for the body but great for the brain, as thinking is critical for the _ to develop.	body	brain	2	_	
+3OQQD2WO8KKSZHILQ5UBI7UO0L23IM-1	Chess is bad for the body but great for the brain, as thinking is useless for the _ to develop.	body	brain	1	_	
+3PKVGQTFIHIREUJLLF5AUV3K8W3YRZ-2	Amy wanted a soft toothbrush but Mary wanted a firm one because _ was concerned about tarter.	Amy	Mary	2	BECAUSE	comparaison
+3PKVGQTFIHIREUJLLF5AUV3K8W3YRZ-1	Amy wanted a soft toothbrush but Mary wanted a firm one because _ was concerned about soreness.	Amy	Mary	1	BECAUSE	comparaison
+3IV1AEQ4DTRAVP8XK4A7LPH0UT2J86-2	Jeffrey build a house for Kenneth so _ will have a nice new place to live.	Jeffrey	Kenneth	2	_	finalité
+3IV1AEQ4DTRAVP8XK4A7LPH0UT2J86-1	Jeffrey build a house with Kenneth's help so _ will have a nice new place to live.	Jeffrey	Kenneth	1	_	finalité
+3HRWUH63QU08X8H9H6JWAE0H7AE5NX-1	Megan had a baby whereas Katrina had a college aged child, so _ still had to change diapers.	Megan	Katrina	1	_	cause-conséquence
+3HRWUH63QU08X8H9H6JWAE0H7AE5NX-2	Megan had a baby whereas Katrina had a college aged child, so _ no longer had to change diapers.	Megan	Katrina	2	_	cause-conséquence
+3XD2A6FGFP838XAXCQPZDM3X9DR9SI-2	Megan received flowers from Carrie because _ wanted to ask them out on a date.	Megan	Carrie	2	BECAUSE	conséquence-cause
+3XD2A6FGFP838XAXCQPZDM3X9DR9SI-1	Megan gave flowers to Carrie because _ wanted to ask them out on a date.	Megan	Carrie	1	BECAUSE	conséquence-cause
+35U0MRQMUJ57DNW0OC1MT1ULA7DOVS-2	Emptying the litter box was a dreaded chore for Adam while Lawrence didn't mind doing it. _ never tried to get someone else to handle it.	Adam	Lawrence	2	_	comparaison
+35U0MRQMUJ57DNW0OC1MT1ULA7DOVS-1	Emptying the litter box was a dreaded chore for Adam while Lawrence didn't mind doing it. _ always tried to get someone else to handle it.	Adam	Lawrence	1	_	comparaison
+3DGDV62G7O7G1WAZF2UQGW20NHGP28-2	Matthew spent the weekend watching a baby while Benjamin was on vacation, and _ made sure their vacation was relaxing.	Matthew	Benjamin	2	_	
+3DGDV62G7O7G1WAZF2UQGW20NHGP28-1	Matthew spent the weekend watching a baby while Benjamin was on vacation, and _ made sure the baby was fed.	Matthew	Benjamin	1	_	
+3ZCC2DXSD720BVV7ZAX42RWH6ZLYYV-2	Kevin found running the marathon easier than Dennis. _ had repeatedly meant to stop smoking.	Kevin	Dennis	2	_	comparaison
+3ZCC2DXSD720BVV7ZAX42RWH6ZLYYV-1	Kevin found running the marathon easier than Dennis. _ had finally decided to stop smoking.	Kevin	Dennis	1	_	comparaison
+3SX4X51T82N2FOS9XFMQPC4GIKHOAI-2	Lawrence planned to steal the valuable painting from Michael, because _ finally owned something beautiful.	Lawrence	Michael	2	BECAUSE	conséquence-cause
+3SX4X51T82N2FOS9XFMQPC4GIKHOAI-1	Lawrence planned to steal the valuable painting from Michael, because _ wanted to own something beautiful.	Lawrence	Michael	1	BECAUSE	conséquence-cause
+3EHVO81VN7ZWTJTMXJY7U2ED3YPH1I-2	Jordan gave his miniature horse a field and a barn to stay in, and the horse liked the _ better when it was warm.	barn	field	2	_	
+3EHVO81VN7ZWTJTMXJY7U2ED3YPH1I-1	Jordan gave his miniature horse a field and a barn to stay in, and the horse liked the _ better when it was cold.	barn	field	1	_	
+3J6BHNX0UB6Q9G1J8RZ24178YD1KNU-1	The idea was given to Steven to mull over and not Ryan because _ is more creative.	Steven	Ryan	1	BECAUSE	comparaison
+3J6BHNX0UB6Q9G1J8RZ24178YD1KNU-2	The idea was given to Steven to mull over and not Ryan because _ is less creative.	Steven	Ryan	2	BECAUSE	comparaison
+38DCH97KHJGG1T8T6YR77G2ZNUIJQY-2	Michael bought mealworms as pet food but not Kenneth because _ had a pony as a pet.	Michael	Kenneth	2	BECAUSE	comparaison
+38DCH97KHJGG1T8T6YR77G2ZNUIJQY-1	Michael bought mealworms as pet food but not Kenneth because _ had a lizard as a pet.	Michael	Kenneth	1	BECAUSE	comparaison
+3BA7SXOG1L4RTDRAS9JGNG3R5E6R8P-1	The draining discussion was followed by a lively lecture.  The _ was just so boring.	discussion	lecture	1	_	
+3BA7SXOG1L4RTDRAS9JGNG3R5E6R8P-2	The draining discussion was followed by a lively lecture.  The _ was just so interesting.	discussion	lecture	2	_	
+3X2LT8FDHWGH7K9P75HMIHNZ2BB8WJ-1	Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much more.	Lawrence	Benjamin	1	BECAUSE	comparaison de degré
+3X2LT8FDHWGH7K9P75HMIHNZ2BB8WJ-2	Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much less.	Lawrence	Benjamin	2	BECAUSE	comparaison de degré
+30IRMPJWDZHWUPU4H04JLNO95XYKRL-2	Mary is sending an important package to Sarah, so _ collects it from the post office.	Mary	Sarah	2	_	finalité
+30IRMPJWDZHWUPU4H04JLNO95XYKRL-1	Mary is sending an important package to Sarah, so _ takes it to the post office.	Mary	Sarah	1	_	finalité
+37AQKJ12TXM8DNXJFYN6MTCNC09TTA-2	Craig volunteered to help the dyslexic students at the school while Joel avoided them, since _ struggled with reading.	Craig	Joel	2	_	comparaison
+37AQKJ12TXM8DNXJFYN6MTCNC09TTA-1	Craig volunteered to help the dyslexic students at the school while Joel avoided them, since _ loved reading.	Craig	Joel	1	_	comparaison
+3LOJFQ4BOZTHN4A6JXLZ8WVEK9ZDK5-1	Sarah took Mary's speech class; when she passed her final exam, _ celebrated with ice cream.	Sarah	Mary	1	_	
+3LOJFQ4BOZTHN4A6JXLZ8WVEK9ZDK5-2	Sarah taught Mary's speech class; when she passed her final exam, _ celebrated with ice cream.	Sarah	Mary	2	_	
+3VMHWJRYHVE5BZO2POJEUSISYL0XFW-1	Joseph decided to groom their dog in the waiting room unlike Leslie, so _ had the cleaner dog.	Joseph	Leslie	1	_	comparaison
+3VMHWJRYHVE5BZO2POJEUSISYL0XFW-2	Joseph decided to groom their dog in the waiting room unlike Leslie, so _ had the dirtier dog.	Joseph	Leslie	2	_	comparaison
+3WKGUBL7SZK0DPAOROK7SUQE70KL4A-2	The woman wanted to hang the dress in the closet but the _ was too large.	closet	dress	2	_	
+3WKGUBL7SZK0DPAOROK7SUQE70KL4A-1	The woman wanted to hang the dress in the closet but the _ was too small.	closet	dress	1	_	
+371Q3BEXDJNIEOSAGOJYQA5RQUIZSM-2	Ian did not see the tumor on Brett's leg, because _ was only receiving an eye exam.	Ian	Brett	2	BECAUSE	conséquence-cause
+371Q3BEXDJNIEOSAGOJYQA5RQUIZSM-1	Ian did not see the tumor on Brett's leg, because _ was only performing an eye exam.	Ian	Brett	1	BECAUSE	conséquence-cause
+3G3AJKPCXN6Z7DGUU1LXE0GI4024YC-2	The gathered  stones in the bag outweigh the collected coins because the _ are small in numbers.	stones	coins	2	BECAUSE	comparaison
+3G3AJKPCXN6Z7DGUU1LXE0GI4024YC-1	The gathered stones in the bag outweigh the collected coins because the _ are much in numbers.	stones	coins	1	BECAUSE	comparaison
+3ZC62PVYDH8MBLFNPIP00ZIZ2NGXX1-2	Samuel knew to recycle aluminum cans but not Logan because _ was never in need of extra change.	Samuel	Logan	2	BUT (not) + BECAUSE	comparaison
+3ZC62PVYDH8MBLFNPIP00ZIZ2NGXX1-1	Samuel knew to recycle aluminum cans but not Logan because _ was always in need of extra change.	Samuel	Logan	1	BUT (not) + BECAUSE	comparaison
+3VMV5CHJZ8D48IBDVYOZNAXYRK6GTQ-1	Jessica used the luxury brand to shampoo her hair instead of the generic brand. The _ brand made her hair beautiful.	luxury	generic	1	INSTEAD (2phrases) 	conséquence-cause
+3VMV5CHJZ8D48IBDVYOZNAXYRK6GTQ-2	Jessica used the luxury brand to shampoo her hair instead of the generic brand. The _ brand made her hair ugly.	luxury	generic	2	INSTEAD (2phrases) 	conséquence-cause
+3L84EBDQ370A7LH9RGVMKB2VA7WKKO-2	Rachel had a dog but Cynthia's dog was given up for adoption recently, so _ gave them their old leash.	Rachel	Cynthia	2	BUT + SO 	cause-conséquence
+3L84EBDQ370A7LH9RGVMKB2VA7WKKO-1	Rachel had a dog but Cynthia's dog was given up for adoption recently, so _ was given their old leash.	Rachel	Cynthia	1	BUT + SO 	cause-conséquence
+3ZTE0JGGCG6Q83P7HTIHV7U4IYFCO7-1	John said that he preferred the chocolate frosting over the lemon frosting because the _ tasted good.	chocolate	lemon	1	OVER + BECAUSE	implication
+3ZTE0JGGCG6Q83P7HTIHV7U4IYFCO7-2	John said that he preferred the chocolate frosting over the lemon frosting because the _ tasted bad.	chocolate	lemon	2	OVER + BECAUSE	implication
+3SR6AEG6W5REP05IPATGGR1EG75YH1-1	Betty is known as bilingual while Rachel is known as multilingual because _ can only speak two languages.	Betty	Rachel	1	WHILE + BECAUSE + ONLY 	comparaison
+3SR6AEG6W5REP05IPATGGR1EG75YH1-2	Betty is known as bilingual while Rachel is known as multilingual because _ can speak more than two languages.	Betty	Rachel	2	WHILE + BECAUSE + THAN	comparaison
+3WUVMVA7OB1ZK379FQL7DCNCEN9ZAB-2	during the vacation we stayed in the 3 star hotel and not the 5 star hotel because the _ were fully booked.	3 star	5 star	2	(not) BECAUSE	conséquence-cause
+3WUVMVA7OB1ZK379FQL7DCNCEN9ZAB-1	during the vacation we stayed in the 3 star hotel and not the 5 star hotel because the _ were available.	3 star	5 star	1	(not) BECAUSE	conséquence-cause
+363A7XIFV60X5816YR84K4YPG8JVAQ-2	The thief was able to be sneaky in the boots, but not in the sandals, because the _ were made of superior material.	sandals	boots	2	BUT (not) + BECAUSE	conséquence-cause
+363A7XIFV60X5816YR84K4YPG8JVAQ-1	The thief was able to be sneaky in the boots, but not in the sandals, because the _ were made of inferior material.	sandals	boots	1	BUT (not) + BECAUSE	conséquence-cause
+3LB1BGHFL2U4U9WDP4A5UA42WC8YTA-1	The quilt Margot was making would take up the whole closet, because the _ was huge.	quilt	closet	1	BECAUSE	conséquence-cause
+3LB1BGHFL2U4U9WDP4A5UA42WC8YTA-2	The quilt Margot was making would take up the whole closet, because the _ was tiny.	quilt	closet	2	BECAUSE	conséquence-cause
+3J9L0X0VDFKHLPSZCXN0IDIAR0OW9Y-2	Are you going to donate your charitable contribution to the church or the school? I think I'm going to give mine to the _ because they need new pews.	school	church	2	? + BECAUSE	
+3J9L0X0VDFKHLPSZCXN0IDIAR0OW9Y-1	Are you going to donate your charitable contribution to the church or the school? I think I'm going to give mine to the _ because they need new computers.	school	church	1	? + BECAUSE	
+3IH9TRB0FDDWPE4631GSUEFS4CI1IC-2	The oak tree weathered the storm but the sapling perished. This is because the _ tree was much more fragile.	oak	sapling	2	BUT + BECAUSE (2phrases)	comparaison de degré
+3IH9TRB0FDDWPE4631GSUEFS4CI1IC-1	The oak tree weathered the storm but the sapling perished. This is because the _ tree was much more sturdy.	oak	sapling	1	BUT + BECAUSE (2phrases)	comparaison de degré
+3N7PQ0KLI5N1PNHSAOSK5U8OFPL3EL-2	Benjamin had a more juvenile sense of humor than Donald so _ hated whoopie cushions.	Benjamin	Donald	2	THAN + SO	comparaison
+3N7PQ0KLI5N1PNHSAOSK5U8OFPL3EL-1	Benjamin had a more juvenile sense of humor than Donald so _ enjoyed whoopie cushions.	Benjamin	Donald	1	THAN + SO	comparaison
+3K8CQCU3KEZ2ARWTD7650EDUR71WNO-2	Eating sweets was a big problem for Carrie but not for Rebecca, thats why _ has a small waistline.	Carrie	Rebecca	2	BUT (not) + THATS WHY	comparaison
+3K8CQCU3KEZ2ARWTD7650EDUR71WNO-1	Eating sweets was a big problem for Carrie but not for Rebecca, thats why _ has a large waistline.	Carrie	Rebecca	1	BUT (not) + THATS WHY	comparaison
+3I01FDIL6OMM6O6GURFV809K39DD2J-2	The ground around Michael's house was solid unlike Aaron's because _ had a month long rainfall.	Michael	Aaron	2	BECAUSE	comparaison
+3I01FDIL6OMM6O6GURFV809K39DD2J-1	The ground around Michael's house was solid unlike Aaron's because _ had a month long drought.	Michael	Aaron	1	BECAUSE	comparaison
+3R5LWXWHR06BPZKX08PWCDI44HGXGE-1	Megan inserted an IV into Sarah's arm once they were admitted to the hospital, because _ was a nurse.	Megan	Sarah	1	BECAUSE	conséquence-cause
+3R5LWXWHR06BPZKX08PWCDI44HGXGE-2	Megan inserted an IV into Sarah's arm once they were admitted to the hospital, because _ was dehydrated.	Megan	Sarah	2	BECAUSE	conséquence-cause
+3XD2A6FGFP838XAXCQPZDM3YANKS9H-2	It was raining hard and the hat got soaked. The color began to blend together. His mom said the _ was ugly anyway and it had too many hats.	hat	color	2	(ø trois phrases) + BECAUSE	cause-conséquence
+3XD2A6FGFP838XAXCQPZDM3YANKS9H-1	It was raining hard and the hat got soaked. The color began to blend together. His mom said the _ was ugly anyway because it had too many colors.	hat	color	1	BECAUSE	cause-conséquence
+385MDVINFETLLQ4FI7QDZ5KLBPRWJV-1	The bedroom had to have the bureau replaced by the new closet , since the _ was too packed for all the new clothes.	bureau	closet	1	SINCE	
+385MDVINFETLLQ4FI7QDZ5KLBPRWJV-2	The bedroom had to have the bureau replaced by the new closet , since the _ was very roomy for all the new clothes.	bureau	closet	2	SINCE	
+3DWGDA5POF2MHVPZIA3BH5HDMDGV1S-2	The chef tried to put the banana in the cake but the _ was too large.	cake	banana	2	BUT (+ _ was + adv degré/nom)	
+3DWGDA5POF2MHVPZIA3BH5HDMDGV1S-1	The chef tried to put the banana in the cake but the _ was too small.	cake	banana	1	BUT (+ _ was + adv degré/nom)	
+3LB1BGHFL4AJOYVK92M5M8SBLAVTYY-1	Brett was more prepared to be a parent than Aaron because _ had spent a lot of time with children.	Brett	Aaron	1	THAN + BECAUSE	comparaison
+3LB1BGHFL4AJOYVK92M5M8SBLAVTYY-2	Brett was more prepared to be a parent than Aaron because _ had spent very little time with children.	Brett	Aaron	2	THAN + BECAUSE	comparaison
+3IWA71V4TKUOMVUY8TSASKTOZWR6XV-2	Patricia chose a hardy cultivar to grow unlike Tanya because _ had very fertile soil.	Patricia	Tanya	2	UNLIKE + BECAUSE	comparaison
+3IWA71V4TKUOMVUY8TSASKTOZWR6XV-1	Patricia chose a hardy cultivar to grow unlike Tanya because _ had very rocky soil.	Patricia	Tanya	1	UNLIKE + BECAUSE	comparaison
+31MBOZ6PAOP38TN3K3QPBS22ZFKLCA-1	Donna would prefer to do her reading at the workplace than at home, because the _ was too noisy.	home	workplace	1	THAN + BECAUSE	conséquence-cause
+31MBOZ6PAOP38TN3K3QPBS22ZFKLCA-2	Donna would prefer to do her reading at the workplace than at home, because the _ was more quiet.	home	workplace	2	THAN + BECAUSE	conséquence-cause
+3PEG1BH7AEP9EIDFL3ITL8J5NFRKBC-2	Donald invited Brett to Paris because _ knew how to speak the native language perfectly.	Donald	Brett	2	BECAUSE	conséquence-cause
+3PEG1BH7AEP9EIDFL3ITL8J5NFRKBC-1	Donald invited Brett to Paris because _ didn't know how to speak the native language.	Donald	Brett	1	BECAUSE (+not?)	conséquence-cause
+3ZXNP4Z39RJXWCS7TMIEV6AOTL97LC-2	Michael discovered Craig was a respected doctor so _ was asked many health related questions.	Michael	Craig	2	SO	cause-conséquence
+3ZXNP4Z39RJXWCS7TMIEV6AOTL97LC-1	Michael discovered Craig was a respected doctor so _ asked him many health related questions.	Michael	Craig	1	SO	cause-conséquence
+36QZ6V1589BMY0ZTQ38QHK23Y8MUSS-2	Glenda always drove the station wagon at night instead of the sports car, because the _ had dimmer headlights.	station wagon	sports car	2	INSTEAD + BECAUSE	conséquence-cause
+36QZ6V1589BMY0ZTQ38QHK23Y8MUSS-1	Glenda always drove the station wagon at night instead of the sports car, because the _ had brighter headlights.	station wagon	sports car	1	INSTEAD + BECAUSE	conséquence-cause
+3CIS7GGG67X0I6TI960LK1MWLVOUE1-2	Ryan ran over Ian's guinea pig with his car, causing _ to feel a great deal of pain.	Ryan	Ian	2	CAUSING	cause-conséquence
+3CIS7GGG67X0I6TI960LK1MWLVOUE1-1	Ryan ran over Ian's guinea pig with his car, causing _ to feel a great deal of guilt.	Ryan	Ian	1	CAUSING	cause-conséquence
+3V8JSVE8YYO25QEGZ9LAVO41T4QEY9-1	It was easier to prevent the post from falling over than the beam, because the _ was heavy.	beam	post	1	BECAUSE	conséquence-cause
+3V8JSVE8YYO25QEGZ9LAVO41T4QEY9-2	It was easier to prevent the post from falling over than the beam, because the _ was light.	beam	post	2	BECAUSE	conséquence-cause
+3D3B8GE892PR1GVY0B95QJAETLY9PO-2	It was easy for Joel but not Kevin to have fun on the camping trip because _ had not learned how to enjoy the outdoors.	Joel	Kevin	2	BUT (+not) + BECAUSE	comparaison
+3D3B8GE892PR1GVY0B95QJAETLY9PO-1	It was easy for Joel but not Kevin to have fun on the camping trip because _ learned early how to enjoy the outdoors.	Joel	Kevin	1	BUT (+not) + BECAUSE	comparaison
+39TX062QX1MAVN895TICTJTVVXM3XO-2	Dennis had a much higher testosterone level than Christopher, so _ started to worry about being able to have children.	Dennis	Christopher	2	THAN + SO	comparaison de degré
+39TX062QX1MAVN895TICTJTVVXM3XO-1	Dennis had a much higher testosterone level than Christopher, so _ didn't have to worry about being able to have children.	Dennis	Christopher	1	THAN + SO (+negation?)	comparaison de degré
+31ODACBENUDU67SC9UOL7J5EQ59SQ9-1	The ability to study French came easier to Angela than Samantha because _ had a strong language background.	Angela	Samantha	1	THAN + BECAUSE	comparaison
+31ODACBENUDU67SC9UOL7J5EQ59SQ9-2	The ability to study French came easier to Angela than Samantha because _ did not have a strong language background.	Angela	Samantha	2	THAN + BECAUSE (+négation?)	comparaison 
+33P2GD6NRP6YZKF85T4PZHACDA8KHK-1	The pool cue used by Emily at the billiards hall was covered with more chalk than the one used by Betty; consequently, _ was practically flawless when breaking.	Emily	Betty	1	THAN + CONSEQUENTLY	comparaison
+33P2GD6NRP6YZKF85T4PZHACDA8KHK-2	The pool cue used by Emily at the billiards hall was covered with more chalk than the one used by Betty; consequently, _ was practically incompetent when breaking.	Emily	Betty	2	THAN + CONSEQUENTLY	comparaison 
+3PCPFX4U40OL22NQ3AOM0KMZ1DNFQH-1	Katrina loves the taste of lettuce but Angela doesn't. _ ordered a big salad for dinner.	Katrina	Angela	1	BUT (negation) (ø)	comparaison de préférence
+3PCPFX4U40OL22NQ3AOM0KMZ1DNFQH-2	Katrina loves the taste of lettuce but Angela doesn't. _ ordered a big steak for dinner.	Katrina	Angela	2	BUT (negation) (ø)	comparaison de préférence
+3PKVGQTFIHIREUJLLF5AUV3K8WLRYA-1	Jason approached Steven to deliver the official subpoena and court summons, because _ was employed as a process server.	Jason	Steven	1	BECAUSE	
+3PKVGQTFIHIREUJLLF5AUV3K8WLRYA-2	Jason approached Steven to deliver the official subpoena and court summons, because _ was being sued.	Jason	Steven	2	BECAUSE	
+3PN6H8C9R64BBR1K768AEISIFNKDAL-2	The mother always consulted a book for her pregnancy because the _ was very  informative.	pregnancy	book	2	BECAUSE (+ _ was + adv degré/nom)	conséquence-cause
+3PN6H8C9R64BBR1K768AEISIFNKDAL-1	The mother always consulted a book for her pregnancy because the _ was very difficult.	pregnancy	book	1	BECAUSE (+ _ was + adv degré/nom)	conséquence-cause
+3DGDV62G7QNVVL96Z06Q8UQ9HIVP24-2	When Manny bought a new dog bed for the cage, he was disappointed when he tried to put it in. The _ was too small.	dog bed	cage	2	ø (pour cat sem : pcq trop grand/petit)	conséquence-cause
+3DGDV62G7QNVVL96Z06Q8UQ9HIVP24-1	When Manny bought a new dog bed for the cage, he was disappointed when he tried to put it in. The _ was too big.	dog bed	cage	1	ø (pour cat sem : pcq trop grand/petit)	conséquence-cause
+3SZYX62S5GYJUNPM1Z27EHER7V975O-2	Natalie helped Monica to get into a treatment program, after _ told of her drug addiction.	Natalie	Monica	2	AFTER	implication
+3SZYX62S5GYJUNPM1Z27EHER7V975O-1	Natalie helped Monica to get into a treatment program, after _ heard of her drug addiction.	Natalie	Monica	1	AFTER	implication
+30OITAWPBSHEIOWH1WD098WV0469HX-1	Nelson went to the doctors office without Dennis because _ had to change his prescription.	Nelson	Dennis	1	WITHOUT + BECAUSE	conséquence-cause
+30OITAWPBSHEIOWH1WD098WV0469HX-2	Nelson went to the doctors office without Dennis because _ had to change the engine oil.	Nelson	Dennis	2	WITHOUT + BECAUSE	conséquence-cause
+30Y6N4AHYPUOGJOUPJIWHATJQ5TDRW-2	The horse prefers the pasture over the barn because there is less room in the _ for the horse to stretch.	pasture	barn	2	BECAUSE	conséquence-cause
+30Y6N4AHYPUOGJOUPJIWHATJQ5TDRW-1	The horse prefers the pasture over the barn because there is more room in the _ for the horse to stretch.	pasture	barn	1	BECAUSE	conséquence-cause
+3KQC8JMJGE6S3M71KNCQIVT908NH37-2	She was never able to use lash curlers on her lashes because the _ are too large.	lashes	curlers	2	BECAUSE (+ _ was + adv degré/nom)	conséquence-cause
+3KQC8JMJGE6S3M71KNCQIVT908NH37-1	She was never able to use lash curlers on her lashes because the _ are too thin.	lashes	curlers	1	BECAUSE (+ _ was + adv degré/nom)	conséquence-cause
+37VE3DA4YUFICSC7FIFW8G3D0EBBHO-2	Ian asked Kevin to help with their taxes because _ was a successful, trained accountant.	Ian	Kevin	2	BECAUSE	conséquence-cause
+37VE3DA4YUFICSC7FIFW8G3D0EBBHO-1	Ian was asked by Kevin to help with their taxes because _ was a successful, trained accountant.	Ian	Kevin	1	BECAUSE	conséquence-cause
+3ROUCZ907H8RHSMA7YR8Q7OM9ZFOOB-1	Hangovers are really bad, but they are not as bad as migraines, because the _ are gone quick.	hangovers	migraines	1	BUT (+AS MAIS DIFF) + BECAUSE	comparaison
+3ROUCZ907H8RHSMA7YR8Q7OM9ZFOOB-2	Hangovers are really bad, but they are not as bad as migraines, because the _ last awhile.	hangovers	migraines	2	BUT (+AS MAIS DIFF) + BECAUSE	comparaison
+3IJ95K7NDXA6D56TY22NEBR624CNGS-1	Since Jennifer was in need of clothing while Natalie had extra, _ bought clothes from the thrift shop.	Jennifer	Natalie	1	WHILE	
+3IJ95K7NDXA6D56TY22NEBR624CNGS-2	Since Jennifer was in need of clothing while Natalie had extra, _ gave clothes to the thrift shop.	Jennifer	Natalie	2	WHILE	
+3VADEH0UHEBO0KQ4TFLWZC3DGTESPT-2	He found he had baking powder for the cake but borrowed baking soda from his neighbor since the _ was full.	soda	powder	2	BUT + SINCE	implication
+3VADEH0UHEBO0KQ4TFLWZC3DGTESPT-1	He found he had baking powder for the cake but borrowed baking soda from his neighbor since the _ was empty.	soda	powder	1	BUT + SINCE	implication
+3IYI9285WUEC7SYA1GQCNBDJKKNJCC-1	Justin was very good at playing music on the guitar unlike Craig because _ was very musical.	Justin	Craig	1	UNLIKE + BECAUSE	comparaison
+3IYI9285WUEC7SYA1GQCNBDJKKNJCC-2	Justin was very good at playing music on the guitar unlike Craig because _ was very sporty.	Justin	Craig	2	UNLIKE + BECAUSE	comparaison
+3D1UCPY6GINZAB68HJIK5I0AXUH388-2	Sheila didn't check the temperature of her flat iron before straightening her hair. The _ was fried.	iron	hair	2	BEFORE (+ø autre phrase)	cause-conséquence
+3D1UCPY6GINZAB68HJIK5I0AXUH388-1	Sheila didn't check the temperature of her flat iron before straightening hair. The _ was hot.	iron	hair	1	BEFORE (+ø autre phrase)	cause-conséquence
+36KM3FWE3TQZT52SOR8VPK69K5E70Y-2	Callie practiced dancing more than she practiced guitar although the recital next week was for the _ .	dancing	guitar	2	THAN + ALTHOUGH	comparaison de degré
+36KM3FWE3TQZT52SOR8VPK69K5E70Y-1	Callie practiced dancing more than she practiced guitar because the recital next week was for the _ .	dancing	guitar	1	THAN + BECAUSE	comparaison de degré
+334ZEL5JX8T6FKE3EF8HACYN590OSV-2	The dog's hair had to be removed after it got stuck in the mud because the _ was clean.	mud	hair	2	BECAUSE (+ _ was + adv degré/nom)	implication
+334ZEL5JX8T6FKE3EF8HACYN590OSV-1	The dog's hair had to be removed after it got stuck in the mud because the _ was disgusting.	mud	hair	1	BECAUSE	implication
+3NCN4N1H1IVPGDXP2EM95YOIBOFNBA-2	Terrorism was a concern in the countryside, but hardly a problem in the city, as the _ had much peace among people.	countryside	city	2	BUT + AS	
+3NCN4N1H1IVPGDXP2EM95YOIBOFNBA-1	Terrorism was a concern in the countryside, but hardly a problem in the city, as the _ had much conflict among people.	countryside	city	1	BUT + AS	
+3OEWW2KGQJ9LJ6WEXR1SNFOEAZPDOW-1	Jason was bald, but Hunter had a full head of hair, so _ had no need to buy hair gel.	Jason	Hunter	1	BUT + SO	comparaison
+3OEWW2KGQJ9LJ6WEXR1SNFOEAZPDOW-2	Jason was bald, but Hunter had a full head of hair, so _ needed to buy hair gel.	Jason	Hunter	2	BUT + SO	comparaison
+3VI0PC2ZA0YEB1028PE49KFFLXYXOR-1	The hair didn't work in a bun, but looked great in a ponytail.  The _ was ugly.	bun	ponytail	1	BUT (+ ø une phrase finale)	cause-conséquence
+3VI0PC2ZA0YEB1028PE49KFFLXYXOR-2	The hair didn't work in a bun, but looked great in a ponytail.  The _ was cute.	bun	ponytail	2	BUT (+ ø une phrase finale)	cause-conséquence
+3W5PY7V3UP5AG608DAW1S4HTYEGJYX-1	it will take them the whole of tomorrow to sort the short sticks, the long ones lasted a few hours only, the _ ones are visible.	long	short	1	ø (3phrases)	
+3W5PY7V3UP5AG608DAW1S4HTYEGJYX-2	it will take them the whole of tomorrow to sort the short sticks, the long ones lasted a few hours only, the _ ones are imperceptible .	long	short	2	ø (3phrases)	
+3KA7IJSNW8JPJY92ITZ19NTCAWUBPR-1	The clouds evoked great fear in the people, while the clear skies calmed them, because the _ were so foreboding.	clouds	skies	1	WHILE + BECAUSE (+so mais dans le sens tellement) 	
+3KA7IJSNW8JPJY92ITZ19NTCAWUBPR-2	The clouds evoked great fear in the people, while the clear skies calmed them, because the _ were so comforting.	clouds	skies	2	WHILE + BECAUSE (+so mais dans le sens tellement) 	
+32TZXEA1ONY2H75RICEO0D59YXA14V-2	The disease was very contagious. His clothes and homes had to be burned. The _ were ragged.	homes	clothes	2	ø	
+32TZXEA1ONY2H75RICEO0D59YXA14V-1	The disease was very contagious. His clothes and homes had to be burned. The _ were huge.	homes	clothes	1	ø (3phrases)	
+30QQTY5GMKI0F2F120AFMT67BR6U7W-1	Dina fed her children yogurt instead of ice cream because she thought that the _ was healthy.	yogurt	ice cream	1	INSTEAD + BECAUSE	conséquence-cause
+30QQTY5GMKI0F2F120AFMT67BR6U7W-2	Dina fed her children yogurt instead of ice cream because she thought that the _ was unhealthy.	yogurt	ice cream	2	INSTEAD + BECAUSE	conséquence-cause
+3A3KKYU7P3FWS9BT16R5NZOURYHMW7-1	Heather bought a doll for her daughters cradle the doll did not fit, the _ was too small.	cradle	doll	1	ø	
+3A3KKYU7P3FWS9BT16R5NZOURYHMW7-2	Heather bought a doll for her daughters cradle the doll did not fit, the _ was too big.	cradle	doll	2	ø	
+3FDWKV9VCPGYUULVQ4O4X9R6VHMUM4-2	They need to update their kitchen cabinets after buying more dishes because the _ are excessive.	cabinets	dishes	2	BECAUSE	conséquence-cause
+3FDWKV9VCPGYUULVQ4O4X9R6VHMUM4-1	They need to update their kitchen cabinets after buying more dishes because the _ are small.	cabinets	dishes	1	BECAUSE	conséquence-cause
+35YHTYFL1G1D7AJ7P9IW67L7IASVFR-1	Because Robert was experiencing hair loss and Brian was not, _ was jealous of his hair.	Robert	Brian	1	(not) ø 	comparaison
+35YHTYFL1G1D7AJ7P9IW67L7IASVFR-2	Even though Robert was experiencing hair loss and Brian was not, _ was jealous of his hair.	Robert	Brian	2	(not) ø 	comparaison
+31GN6YMHLR6EKTN551ZRR6B98MFSWD-1	She wanted to make a toilet paper roll butterfly by using the roll's tube and paint, but was unable to finish because the _ was too scarce.	paint	tube	1	BUT + BECAUSE (+ _ was + adv degré/nom)	cause imprévisible
+31GN6YMHLR6EKTN551ZRR6B98MFSWD-2	She wanted to make a toilet paper roll butterfly by using the roll's tube and paint, but was unable to finish because the _ was too large.	paint	tube	2	BUT + BECAUSE (+ _ was + adv degré/nom)	cause imprévisible
+3X52SWXE0ZJYDCY98F9RC17QLFAWCT-2	Lawrence shovelled their driveway after the snow storm while Aaron avoided doing so, so _ had a driveway that was covered in snow.	Lawrence	Aaron	2	WHILE + SO	implication
+3X52SWXE0ZJYDCY98F9RC17QLFAWCT-1	Lawrence shovelled their driveway after the snow storm while Aaron avoided doing so, so _ had a driveway that was free from snow.	Lawrence	Aaron	1	WHILE + SO	implication
+3HEM8MA6HBQCN4BR1BWR4COBWICQP7-1	Cathy felt a stronger bond with her dog than her cat because her _ was very aloof.	cat	dog	1	THAN + BECAUSE	
+3HEM8MA6HBQCN4BR1BWR4COBWICQP7-2	Cathy felt a stronger bond with her dog than her cat because her _ was very affectionate.	cat	dog	2	THAN + BECAUSE	
+3TKXBROM5VO3KVKATQMYYEBDWK1IJU-2	Patricia always had to clean up after Angela, because _ didn't care about living in filth.	Patricia	Angela	2	BECAUSE	
+3TKXBROM5VO3KVKATQMYYEBDWK1IJU-1	Patricia always had to clean up after Angela, because _ didn't want to live in filth.	Patricia	Angela	1	BECAUSE	
+3M93N4X8HM1SE9N6Y2GC2GH17WPJS5-1	Michael asked Brett for help moving a desk. _ wouldn't have been able to do it alone.	Michael	Brett	1	ø 	implication
+3M93N4X8HM1SE9N6Y2GC2GH17WPJS5-2	Michael asked Brett for help moving a desk. _ wouldn't have been able to do it by himself either.	Michael	Brett	2	ø	implication
+35ZRNT9RUKC2V3TOO07G24QACWE3OY-1	Jennifer liked to smoke pot but Laura like to smoke cigars. _ wound up in the local jail for smoking their favorite thing in public.	Jennifer	Laura	1	BUT (+ ø)	comparaison de préférence
+35ZRNT9RUKC2V3TOO07G24QACWE3OY-2	Jennifer liked to smoke pot but Laura like to smoke cigars. _ avoided the local jail for smoking their favorite thing in public.	Jennifer	Laura	2	BUT (+ ø)	comparaison de préférence
+3QXFBUZ4ZKEJ8VQ2V3E9S6J0AZ5GUB-2	Jeffrey believed Robert was spying on him during the private event, because _ was sneaky.	Jeffrey	Robert	2	BECAUSE	conséquence-cause
+3QXFBUZ4ZKEJ8VQ2V3E9S6J0AZ5GUB-1	Jeffrey believed Robert was spying on him during the private event, because _ was paranoid.	Jeffrey	Robert	1	BECAUSE	conséquence-cause
+3K2CEDRACBZ40S7Z61MU0FHVN6HTMA-1	Frank visited the bank to get a loan to buy a new car, and the _ was very skeptical.	loan	car	1	AND	
+3K2CEDRACBZ40S7Z61MU0FHVN6HTMA-2	Frank visited the bank to get a loan to buy a new car, and the _ was very bold.	loan	car	2	AND	
+3VZYA8PITQCK61O90YTYR0SCSTN506-1	Christopher needs Ian's advice on how to create a positive classroom atmosphere, because _ is a new teacher.	Christopher	Ian	1	BECAUSE (+ be)	conséquence-cause
+3VZYA8PITQCK61O90YTYR0SCSTN506-2	Christopher needs Ian's advice on how to create a positive classroom atmosphere, because _ is an experienced teacher.	Christopher	Ian	2	BECAUSE (+ be)	conséquence-cause
+3O2Y2UIUCQSZRZPVQ54P4YAQ27VFKP-2	Emily was having difficulty going through puberty but not Christine because _ had very weak acne causing hormones.	Emily	Christine	2	BUT (not) + BECAUSE	comparaison
+3O2Y2UIUCQSZRZPVQ54P4YAQ27VFKP-1	Emily was having difficulty going through puberty but not Christine because _ had very strong acne causing hormones.	Emily	Christine	1	BUT (not) + BECAUSE	comparaison
+3A520CCNWNY198GDJ37US2MULV6EAD-1	Hunter likes tulips and Ryan does not, so _ went to buy some from the store.	Hunter	Ryan	1	(not) SO	comparaison de préférence
+3A520CCNWNY198GDJ37US2MULV6EAD-2	Hunter likes tulips and Ryan does not, so _ refused to buy some from the store.	Hunter	Ryan	2	(not) SO	comparaison de préférence
+3H6W48L9F4N2DC86TMJX43IPRLBWPR-2	Victoria decided to choose express shipping while Katrina did not, so _ got her order last.	Victoria	Katrina	2	(not) SO	comparaison
+3H6W48L9F4N2DC86TMJX43IPRLBWPR-1	Victoria decided to choose express shipping while Katrina did not, so _ got her order first.	Victoria	Katrina	1	(not) SO	comparaison
+3MD8CKRQZ11GDUNTJDG7C6C4J58RJ9-1	The tutor was more suited for English studies than the professor , since _ was an effective teacher.	tutor	professor	1	MORE THAN + SINCE	comparaison degré
+3MD8CKRQZ11GDUNTJDG7C6C4J58RJ9-2	The tutor was more suited for English studies than the professor , since _ was an inadequate teacher.	tutor	professor	2	MORE THAN + SINCE	comparaison degré
+3UEDKCTP9X416V9WSKID84LHXXOK76-2	Victoria was more fashionable than Elena because _ always was concerned about leaving dandruff on their shirts.	Victoria	Elena	2	MORE THAN + BECAUSE	comparaison degré
+3UEDKCTP9X416V9WSKID84LHXXOK76-1	Victoria was more fashionable than Elena but  _ always was concerned about leaving dandruff on their shirts.	Victoria	Elena	1	MORE THAN + BUT	comparaison degré
+3EGKVCRQFY6JSC139GVKMEMPGCSBY6-2	Carrie needed to be vigilant about her bone health which Natalie worries about since _ is concerned.	Carrie	Natalie	2	SINCE	
+3EGKVCRQFY6JSC139GVKMEMPGCSBY6-1	Carrie needed to be vigilant about her bone health which Natalie worries about since _ is elderly.	Carrie	Natalie	1	SINCE	
+3566S7OX5FXZ0UNAKACV3PPIOHJ17V-2	The waves destroyed the garage but left the house intact because the _ was so far from the shore.	garage	house	2	BUT + BECAUSE (+ _ was + adv degré/nom)	conséquence-cause
+3566S7OX5FXZ0UNAKACV3PPIOHJ17V-1	The waves destroyed the garage but left the house intact because the _ was so close to the shore.	garage	house	1	BUT + BECAUSE (+ _ was + adv degré/nom)	conséquence-cause
+3HEM8MA6H9AXTFCKHDKRCE03806PQT-1	The science student tried using the telescope to see the galaxy but the _ was too far.	galaxy	telescope	1	BUT (+ _ was + adv degré/nom)	cause imprévisible
+3HEM8MA6H9AXTFCKHDKRCE03806PQT-2	The science student tried using the telescope to see the galaxy but the _ was too weak.	galaxy	telescope	2	BUT (+ _ was + adv degré/nom)	cause imprévisible
+						
+						
+						
+						
+	pb code					
+	new					
